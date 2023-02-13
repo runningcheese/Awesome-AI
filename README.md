@@ -52,6 +52,7 @@ ChatGPT 最大的特点是能够回答你提出的各种问题，并根据我所
 
 
 - https://chat.forchange.cn
+- https://xc.com
 - http://wenzhang.zhuluan.com/zh-cn
 - http://chat.h2ai.cn
 - https://yy.yy.sbs
@@ -214,7 +215,7 @@ ChatGPT 最大的特点是能够回答你提出的各种问题，并根据我所
 ## 结尾
 &nbsp;
 
-本文将持续更新，最后更新：2023-02-10
+本文将持续更新，最后更新：2023-02-13
 
 
 &nbsp;

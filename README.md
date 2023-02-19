@@ -36,8 +36,8 @@ ChatGPT 最大的特点是能够回答你提出的各种问题，并根据我所
 
 ## **共享账号**
 
-
-登录：https://chat.openai.com/auth/login、、、、、、\
+&nbsp;
+登录：https://chat.openai.com/auth/login
 注意：香港节点不可用。
 
 &nbsp;

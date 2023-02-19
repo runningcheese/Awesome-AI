@@ -117,6 +117,7 @@ ChatGPT 最大的特点是能够回答你提出的各种问题，并根据我所
 
 - https://chat.forchange.cn
 - https://xc.com
+- https://www.cveoy.com
 - http://wenzhang.zhuluan.com/zh-cn
 - http://chat.h2ai.cn
 - https://yy.yy.sbs
@@ -141,8 +142,6 @@ ChatGPT 最大的特点是能够回答你提出的各种问题，并根据我所
 名称：[BingChat](https://bing.com/new)
 
 简介：微软推出的 ChatGPT 应用，但目前还在测试阶段，需要申请“WaitList”。
-
-
 
 
 

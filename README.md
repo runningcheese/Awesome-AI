@@ -37,9 +37,10 @@ ChatGPT 最大的特点是能够回答你提出的各种问题，并根据我所
 ## **共享账号**
 
 
-登录：https://chat.openai.com/auth/login
+登录：https://chat.openai.com/auth/login、、、、、、\
 注意：香港节点不可用。
 
+&nbsp;
 最新账号共享：
 
 账号1：vickye89@hotmail.com
@@ -91,7 +92,8 @@ ChatGPT 最大的特点是能够回答你提出的各种问题，并根据我所
 密码16：94cymN2p42ChatGPT
 
 
-更多共享账号：
+&nbsp;
+更多账号共享：
 
 [https://terobox.com](https://terobox.com)，可免费试用，但效果不佳，经常爆满，ChatGPT 本身也经常爆满连不上。
 

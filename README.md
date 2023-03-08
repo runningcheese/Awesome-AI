@@ -123,14 +123,16 @@ ChatGPT 最大的特点是能够回答你提出的各种问题，并根据我所
 &nbsp;
 
 
-
-- [https://chatgpt.ddiu.me](https://chatgpt.ddiu.me)
-- [https://chat.xeasy.me](https://chat.xeasy.me)
-
-- [https://chat.bujj.org](https://chat.bujj.org)
-- [https://ai.ls](https://ai.ls)
-- [https://desk.im](https://desk.im)
-- https://freegpt.one
+- [https://chatgpt.ddiu.me](https://chatgpt.ddiu.me)（无反应，源码 Demo）
+- [https://ai.ls](https://ai.ls)（反应快）
+- [https://ai.ci](https://ai.ci)（反应快）
+- [https://desk.im](https://desk.im)（反应快）
+- [https://freegpt.one](https://freegpt.one)（反应快）
+- [https://haoai.dev](https://haoai.dev)（反应快）
+- [https://chatforai.com](https://chatforai.com)（反应快）
+- [https://www.545852.xyz](https://www.545852.xyz)（反应慢）
+- [https://www.scyu.app](https://www.scyu.app)（反应慢）
+- [https://chatgpt-local.vercel.app](https://chatgpt-local.vercel.app)（反应慢）
 
 
 

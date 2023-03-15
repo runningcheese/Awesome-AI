@@ -66,46 +66,31 @@ ChatGPT 最大的特点是能够回答你提出的各种问题，并根据我所
 
 &nbsp;
 
-### 2.1、Turbo 镜像
 
-&nbsp;
 
-3月1日，OpenAI 正式开放了 **GPT-3.5-turbo** 的 API。
+### **第一梯队：**
 
 
 
-**GPT-3.5-turbo** 不但具备 **GPT-3** 的全部能力，并针对**聊天对话**场景进行了优化，支持基于上下文的**追问式聊天**。
-
-
-
-最重要的是，它的**速度非常快**，不愧是 **Turbo** 版的，再也不需要忍受“**打字式**”聊天了。
-
-
-
-下面是一些基于 GPT-3.5-turbo 的网站。
-
-&nbsp;
-
-
-
-
-
-反应快：
-
-
-- [https://chatgpt.ddiu.me](https://chatgpt.ddiu.me)（无反应，源码 Demo）
 - [https://chat.theb.ai](https://chat.theb.ai)
 - [https://chatforai.com](https://chatforai.com)
 - [https://www.chat2ai.cn](https://www.chat2ai.cn)
 - [https://chatgpt.ai](https://chatgpt.ai)
+- [https://fastgpt.app](https://fastgpt.app)
+- [https://chat.yqcloud.top](https://chat.yqcloud.top)
 
 
 
 
-&nbsp;
-反应慢：
+
+### **第二梯队：**
 
 
+
+- [https://ai.ls](https://ai.ls)（需要魔法）
+- [https://ai.ci](https://ai.ci)（需要魔法）
+- [https://desk.im](https://desk.im)（需要魔法）
+- [https://chatgpt.ddiu.me](https://chatgpt.ddiu.me)（源码 Demo）
 
 - https://www.545852.xyz
 - https://www.scyu.app
@@ -114,9 +99,10 @@ ChatGPT 最大的特点是能够回答你提出的各种问题，并根据我所
 - https://vrtalk.io
 
 
+
 &nbsp;
 
-### 2.2、早期镜像
+### 早期镜像：
 
 &nbsp;
 
@@ -124,15 +110,17 @@ ChatGPT 最大的特点是能够回答你提出的各种问题，并根据我所
 
 
 
-- https://xc.com
+- [https://xc.com](https://xc.com)
 
-- https://www.cveoy.com
+- [https://www.cveoy.com](https://www.cveoy.com)
+
+- [https://chat.zecoba.cn](https://chat.zecoba.cn)
 
 - [https://aigcfun.com](https://aigcfun.com)（基于国内 API 混合开发）
 
 - [https://chat.forchange.cn](https://chat.forchange.cn)（基于国内 API 混合开发）
 
-  
+
 
 
 

@@ -48,43 +48,7 @@ ChatGPT 最大的特点是能够回答你提出的各种问题，并根据我所
 登录：[https://chat.openai.com/auth/login](https://chat.openai.com/auth/login)（注意：香港节点不可用。）
 
 &nbsp;
-**可用账号共享：**
-
-
-
-- 账号1：vickye89@hotmail.com 密码1：LeZ25X5dwL
-
-- 账号2：eugeniev552@hotmail.com 密码2：4w95MnvIvc
-
-- 账号3：ayakonewuyo@hotmail.com 密码3：q8UCd2lST
-
-- 账号4：ludmillasteb9@hotmail.com 密码4：7sb54Oii8I
-
-- 账号5：chr89kuchto@hotmail.com 密码5：Cea7IQj5ud
-
-- 账号6：emil03mk@hotmail.com 密码6：ENC82hip2A
-
-- 账号7：tulagj3@hotmail.com 密码7：Wx99eCqer7
-- 账号8：prue56zjehle@hotmail.com 密码8：8398k84X85
-- 账号9：lydiavn9ktutoky@hotmail.com 密码9：6351VsZz25
-- 账号10：vernitagq2@hotmail.com 密码10：geFfr4H0x9
-
-- 账号11：kirstiealtqw@hotmail.com 密码11：1FBbV8OJg9
-
-- 账号12：ralphnamer32d@hotmail.com 密码12：F85T86YtbL
-
-- 账号13：celinabullievmu@hotmail.com 密码13：OqTz0lj525
-
-- 账号14：chanafdidelaet@hotmail.com 密码14：6x3CM4pPYY
-
-- 账号15：alita07pbogdon@hotmail.com 密码15：Umppl1ylc0
-- 账号16：averilltxgt@hotmail.com 密码16：94cymN2p42ChatGPT
-
-&nbsp;
-
-**更多账号共享：**
-
-
+**账号共享：**
 
 [https://terobox.com](https://terobox.com)，可免费试用，但效果不佳，经常爆满，ChatGPT 本身也可能经常爆满连不上。
 
@@ -124,16 +88,30 @@ ChatGPT 最大的特点是能够回答你提出的各种问题，并根据我所
 
 
 - [https://chatgpt.ddiu.me](https://chatgpt.ddiu.me)（无反应，源码 Demo）
-- [https://ai.ls](https://ai.ls)（反应快）
-- [https://ai.ci](https://ai.ci)（反应快）
-- [https://desk.im](https://desk.im)（反应快）
-- [https://freegpt.one](https://freegpt.one)（反应快）
-- [https://haoai.dev](https://haoai.dev)（反应快）
-- [https://chatforai.com](https://chatforai.com)（反应快）
-- [https://www.545852.xyz](https://www.545852.xyz)（反应慢）
-- [https://www.scyu.app](https://www.scyu.app)（反应慢）
-- [https://chatgpt-local.vercel.app](https://chatgpt-local.vercel.app)（反应慢）
 
+
+反应快：
+
+
+
+- [https://chat.theb.ai](https://chat.theb.ai)
+- [https://chatforai.com](https://chatforai.com)
+- [https://www.chat2ai.cn](https://www.chat2ai.cn)
+- [https://chatgpt.ai](https://chatgpt.ai)
+
+
+
+
+&nbsp;
+反应慢：
+
+
+
+- https://www.545852.xyz
+- https://www.scyu.app
+- https://chatgpt-local.vercel.app
+- https://ai117.com
+- https://vrtalk.io
 
 
 &nbsp;

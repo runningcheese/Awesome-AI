@@ -70,7 +70,7 @@ ChatGPT 最大的特点是能够回答你提出的各种问题，并根据我所
 
 ### **第一梯队：**
 
-
+&nbsp;
 
 - [https://chat.theb.ai](https://chat.theb.ai)
 - [https://chatforai.com](https://chatforai.com)
@@ -85,7 +85,7 @@ ChatGPT 最大的特点是能够回答你提出的各种问题，并根据我所
 
 ### **第二梯队：**
 
-
+&nbsp;
 
 - [https://ai.ls](https://ai.ls)（需要魔法）
 - [https://ai.ci](https://ai.ci)（需要魔法）
@@ -106,10 +106,6 @@ ChatGPT 最大的特点是能够回答你提出的各种问题，并根据我所
 
 &nbsp;
 
-无需魔法，无需注册，可以直接访问，部分网站并不是原版 ChatGPT，同时服务也可能不稳定。
-
-
-
 - [https://xc.com](https://xc.com)
 
 - [https://www.cveoy.com](https://www.cveoy.com)
@@ -119,7 +115,6 @@ ChatGPT 最大的特点是能够回答你提出的各种问题，并根据我所
 - [https://aigcfun.com](https://aigcfun.com)（基于国内 API 混合开发）
 
 - [https://chat.forchange.cn](https://chat.forchange.cn)（基于国内 API 混合开发）
-
 
 
 

@@ -59,8 +59,18 @@ ChatGPT 最大的特点是能够回答你提出的各种问题，并根据我所
 ## 二、**镜像网站**
 
 
+&nbsp;
+3月1日，OpenAI 正式开放了 **GPT-3.5-turbo** 的 API。
 
-无需魔法，无需注册，可以直接访问
+
+**GPT-3.5-turbo** 不但具备 **GPT-3** 的全部能力，并针对**聊天对话**场景进行了优化，支持基于上下文的**追问式聊天**。
+
+
+最重要的是，它的**速度非常快**，不愧是 **Turbo** 版的，再也不需要忍受“**打字式**”聊天了。
+
+
+
+下面是一些基于 GPT-3.5-turbo 的网站。
 
 
 
@@ -69,8 +79,8 @@ ChatGPT 最大的特点是能够回答你提出的各种问题，并根据我所
 
 
 ### **第一梯队：**
-
 &nbsp;
+
 
 - [https://chat.theb.ai](https://chat.theb.ai)
 - [https://chatforai.com](https://chatforai.com)
@@ -78,10 +88,12 @@ ChatGPT 最大的特点是能够回答你提出的各种问题，并根据我所
 - [https://chatgpt.ai](https://chatgpt.ai)
 - [https://fastgpt.app](https://fastgpt.app)
 - [https://chat.yqcloud.top](https://chat.yqcloud.top)
+- [https://www.askopenai.cn](https://www.askopenai.cn)
+- [https://chat.wxredcover.cn](https://chat.wxredcover.cn)
 
 
 
-
+&nbsp;
 
 ### **第二梯队：**
 
@@ -101,20 +113,6 @@ ChatGPT 最大的特点是能够回答你提出的各种问题，并根据我所
 
 
 &nbsp;
-
-### 早期镜像：
-
-&nbsp;
-
-- [https://xc.com](https://xc.com)
-
-- [https://www.cveoy.com](https://www.cveoy.com)
-
-- [https://chat.zecoba.cn](https://chat.zecoba.cn)
-
-- [https://aigcfun.com](https://aigcfun.com)（基于国内 API 混合开发）
-
-- [https://chat.forchange.cn](https://chat.forchange.cn)（基于国内 API 混合开发）
 
 
 

@@ -119,6 +119,12 @@ ChatGPT 最大的特点是能够回答你提出的各种问题，并根据我所
 
 &nbsp;
 
+
+
+
+
+
+
 ## 三、平替应用
 
 
@@ -346,7 +352,120 @@ FlowUs AI 的模型与 Notion 一样。
 
 &nbsp;
 
-## 五、使用技巧
+
+
+## 五、ChatGPT 应用
+&nbsp;
+&nbsp;
+
+
+
+### [OpenGPT](https://open-gpt.app/)
+
+
+
+网站不但收集了海量 ChatGPT 应用集合，你还可以几秒钟内创建属于自己的应用。
+
+
+
+
+
+### [ChatPDF](https://www.chatpdf.com/)
+
+
+
+基于 ChatGPT 构建的 PDF 神器，它可以提取 PDF 文件中的内容，并将内容交给 ChatGPT 进行分析。
+
+类似于 Edge 浏览器的侧边栏，免费版最多支持 50 页。
+
+
+
+
+
+### [Openai Translator](https://github.com/yetone/openai-translator)
+
+
+
+基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用，添加 ChatGPT 的 API 即可使用。
+目前还在扩展商店审核中，需要以开发者模式安装。
+
+
+
+
+
+### [ChatExcel](https://chatexcel.com/)
+
+
+
+由北大团队出品的 ChatExcel AI 工具，在聊天框内输入对于表格的整理需求表格就会自动处理。
+
+目前免费无限制使用，但测试了一下，并没有那么智能。
+
+
+
+
+
+### [editGPT](https://www.editgpt.app/)
+
+
+
+AI 论文写作校对润色神器，是 Grammarly 的最大对手。
+
+在线演示：[https://www.editgpt.app/examples/proofread-your-essay](https://www.editgpt.app/examples/proofread-your-essay)
+
+
+
+
+
+### [Adrenaline](https://useadrenaline.com/)
+
+
+
+把代码贴进去自动找 bug，这个 debug 神器自动修复仅需几秒。
+
+该工具由 OpenAI Codex 提供支持，Codex 是 OpenAI 与 GitHub 联合发布的 AI 代码补全工具。
+
+使用前需要填写 OpenAI API 密钥。
+
+
+
+
+
+### [Glarity](https://glarity.app/)
+
+
+
+通过 ChatGPT 为谷歌搜索、YouTube 视频等网站内容生成摘要，只要有字幕的就可以总结，支持所有语言。
+
+
+
+
+
+### [BibiGPT](https://b.jimmylv.cn/)
+
+
+
+智能提取并总结字幕，可以自动总结 B站 视频的内容。
+
+
+
+
+
+### [风声雨声](https://fsys.app/)
+
+
+
+基于 gpt-3.5 的翻译服务，可以将一整本电子书翻译为双语，是外语书籍阅读的好帮手，但它是一个付费项目。
+
+价格大概每 10 万字 10 元人民币。
+
+&nbsp;
+
+
+
+
+
+## 六、使用技巧
 
 &nbsp;
 

@@ -90,6 +90,19 @@ ChatGPT 最大的特点是能够回答你提出的各种问题，并根据我所
 - [https://chat.yqcloud.top](https://chat.yqcloud.top)
 - [https://www.askopenai.cn](https://www.askopenai.cn)
 - [https://chat.wxredcover.cn](https://chat.wxredcover.cn)
+- [https://94gpt.com](https://94gpt.com)
+- [https://trychatgp.com](https://trychatgp.com)
+- [https://chatgpt.poshist.cn](https://chatgpt.poshist.cn)
+- [https://www.aitoolgpt.com](https://www.aitoolgpt.com)
+- https://chat.paoying.net
+- https://chatgptproxy.info/#
+- https://chat2.geekr.dev
+- https://dev.yqcloud.top
+- https://gitopenchina.gitee.io
+- https://chat2.xeasy.me
+
+
+
 
 
 

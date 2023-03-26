@@ -91,10 +91,10 @@ ChatGPT 最大的特点是能够回答你提出的各种问题，并根据我所
 
 
 
-
+&nbsp;
 ### 2.2、集成应用
 
-
+&nbsp;
 
 
 
@@ -105,7 +105,7 @@ ChatGPT 最大的特点是能够回答你提出的各种问题，并根据我所
 下面介绍的集成应用，它们不但不会失效，并且没有使用限制。
 
 
-
+&nbsp;
 首先是 [Cursor](https://www.cursor.so)。
 
 
@@ -121,8 +121,8 @@ ChatGPT 最大的特点是能够回答你提出的各种问题，并根据我所
 ![S31_Cursor](https://gimg2.baidu.com/image_search/&app=2020&src=tvax1.sinaimg.cn/large/7a6a15d5gy1hcd7o4hqtqj228c1ecnm0.jpg)
 
 
-
-其实是 [LunaBot](https://lunabot.ai/)。
+&nbsp;
+其次是 [LunaBot](https://lunabot.ai/)。
 
 
 
@@ -197,7 +197,7 @@ Edge 浏览器集成的 **Chat** 侧边栏，更是阅读本地文档的利器�
 
 ### 3.4、[ChatSonic](https://writesonic.com/chat)
 
-
+&nbsp;
 
 由 Writesonic 公司推出，ChatSonic 集成了“**搜索+聊天+GPT**”，而且还有图片生成功能，对标的自是 **NewBing**。
 
@@ -224,13 +224,13 @@ Edge 浏览器集成的 **Chat** 侧边栏，更是阅读本地文档的利器�
 &nbsp;
 
 ### 3.5、[Poe](https://poe.com/sage)
-
+&nbsp;
 
 
 Poe 是国外知识问答网站 Quora，基于多个**第三方大型语言模型训练**的 AI 聊天应用，顶部有多个机器人名称。
 
 
-
+&nbsp;
 **Sage**：更擅长英语以外的语言。
 
 **Claude**：专注于英语，更擅长于创意写作任务。
@@ -244,7 +244,7 @@ Poe 是国外知识问答网站 Quora，基于多个**第三方大型语言模�
 **GPT-4**：目前可用的最强大语言模型，在 Poe 上每天可以**免费试用一次**。
 
 
-
+&nbsp;
 PS：需要**使用魔法**访问，如出现 message timeout 的情况，刷新即可。
 
 
@@ -392,7 +392,7 @@ YouChat 是国外搜索引擎 You.com，基于 GPT 开发的 AI 聊天 应用，
 
 
 
-
+&nbsp;
 ### 5.1、英文技巧
 
 &nbsp;
@@ -406,10 +406,10 @@ YouChat 是国外搜索引擎 You.com，基于 GPT 开发的 AI 聊天 应用，
 
 
 
-
+&nbsp;
 ### 5.2、中文技巧
 
-
+&nbsp;
 
 - [ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)：各种场景使用指南，学习怎么让它听你的话。    
 - [ChatGPT Shortcut](https://newzone.top/chatgpt/cn/?name=%C3%A7%C3%A7)：简单易用的 ChatGPT 快捷指令表

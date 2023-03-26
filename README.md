@@ -170,6 +170,24 @@ Edge 浏览器集成的 **Chat** 侧边栏，更是阅读本地文档的利器�
 ![S31_Bing2](https://gimg2.baidu.com/image_search/&app=2020&src=tvax1.sinaimg.cn/large/7a6a15d5gy1hcd7qvujyrj22bs1eq4qq.jpg)
 
 
+&nbsp;
+
+**使用说明：**
+
+
+我有魔法，但使用时出如果出现“Sorry, looks like your network...”的错误。
+
+
+原因是 DNS 解析，安装扩展 **Header Editor**，并导入奶酪的配置，之后删除 cookie，手动打开 bing.com 即可。
+
+
+电脑版：
+[https://www.runningcheese.com/Restore/HeaderEditor_NewBing.json](https://www.runningcheese.com/Restore/HeaderEditor_NewBing.json)
+
+
+手机版：
+[https://www.runningcheese.com/Restore/HeaderEditor_NewBing_Mobile.json](https://www.runningcheese.com/Restore/HeaderEditor_NewBing_Mobile.json)
+
 
 
 

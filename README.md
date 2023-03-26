@@ -48,9 +48,7 @@ ChatGPT 最大的特点是能够回答你提出的各种问题，并根据我所
 登录：[https://chat.openai.com/auth/login](https://chat.openai.com/auth/login)（注意：香港节点不可用。）
 
 &nbsp;
-**账号共享：**
-
-[https://terobox.com](https://terobox.com)，可免费试用，但效果不佳，经常爆满，ChatGPT 本身也可能经常爆满连不上。
+**账号共享：**[https://terobox.com](https://terobox.com)，可免费试用，但效果不佳，经常爆满，ChatGPT 本身也可能经常爆满连不上。
 
 
 

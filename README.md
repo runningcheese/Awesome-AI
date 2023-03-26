@@ -58,17 +58,84 @@ ChatGPT 最大的特点是能够回答你提出的各种问题，并根据我所
 
 
 &nbsp;
+&nbsp;
+
 3月1日，OpenAI 正式开放了 **GPT-3.5-turbo** 的 API。
+
 
 
 **GPT-3.5-turbo** 不但具备 **GPT-3** 的全部能力，并针对**聊天对话**场景进行了优化，支持基于上下文的**追问式聊天**。
 
 
-最重要的是，它的**速度非常快**，不愧是 **Turbo** 版的，再也不需要忍受“**打字式**”聊天了。
+
+最重要的是，它的**速度非常快**，不愧是 **Turbo** 版，再也不需要忍受“**打字式**”聊天了。
+
+&nbsp;
 
 
 
-下面是一些基于 GPT-3.5-turbo 的网站。
+### 2.1、镜像网站
+
+
+
+| ▼ **镜像网站**                                           | **简介**                                     |
+| -------------------------------------------------------- | -------------------------------------------- |
+| 🌐 [https://qachat.cc](https://qachat.cc)                 | 很快、无限制                                 |
+| 🌐 [https://chat.theb.ai](https://chat.theb.ai)           | 很快、无限制、需魔法                         |
+| 🌐 [https://freegpt.one](https://freegpt.one)             | 很快、无限制、需魔法                         |
+| 🌐 [https://94gpt.com](https://94gpt.com)                 | 很快、无限制、需魔法                         |
+| 🌐 [https://chatgptproxy.info](https://chatgptproxy.info) | 很快、无限制、需魔法                         |
+| 🌐 [https://dev.yqcloud.top](https://dev.yqcloud.top)     | 很快、无限制、国内打开稍慢                   |
+| 🌐 [https://chatforai.online](https://chatforai.online)   | 很快、免费 10 次，清除 Cookie 可重置使用次数 |
+
+
+
+
+
+### 2.2、集成应用
+
+
+
+
+
+由于国内政策和服务器开销的原因，GPT-3.5-turbo 的网站，要么有使用次数限制，要么需要“**用魔法”**才能打开。
+
+
+
+下面介绍的集成应用，它们不但不会失效，并且没有使用限制。
+
+
+
+首先是 [Cursor](https://www.cursor.so)。
+
+
+
+原本它是一个编程类 AI 辅助工具，只会回答编程类话题，但如果“**新建一个没有后缀名的文件**”，打开聊天窗口。
+
+
+
+**就会解除所有限制**。下载地址：[https://www.cursor.so](https://www.cursor.so)
+
+
+
+![S31_Cursor](https://gimg2.baidu.com/image_search/&app=2020&src=tvax1.sinaimg.cn/large/7a6a15d5gy1hcd7o4hqtqj228c1ecnm0.jpg)
+
+
+
+其实是 [LunaBot](https://lunabot.ai/)。
+
+
+
+它是一个浏览器扩展，也集成了 ChatGPT 3.5，可以在任何网页上使用 ChatGPT，免费用户也可以无限制使用。
+
+
+
+地址：[Chrome](https://chrome.google.com/webstore/detail/jkeolmadidncndcbnajhaojepbolajag)、[Edge](https://microsoftedge.microsoft.com/addons/detail/pcilgakddbmfdpbpfbdjfjgaaiahogab)、[Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/lunabot-chatgpt-on-webpages/)、[本地下载](https://www.crxsoso.com/webstore/detail/jkeolmadidncndcbnajhaojepbolajag)
+
+
+
+![S31_LunaBot](https://gimg2.baidu.com/image_search/&app=2020&src=tvax1.sinaimg.cn/large/7a6a15d5gy1hcd7quxmfrj228c1echdt.jpg)
+
 
 
 
@@ -76,67 +143,9 @@ ChatGPT 最大的特点是能够回答你提出的各种问题，并根据我所
 
 
 
-### **第一梯队：**
 &nbsp;
 
-
-- [https://chat.theb.ai](https://chat.theb.ai)
-- [https://chatforai.com](https://chatforai.com)
-- [https://www.chat2ai.cn](https://www.chat2ai.cn)
-- [https://chatgpt.ai](https://chatgpt.ai)
-- [https://fastgpt.app](https://fastgpt.app)
-- [https://chat.yqcloud.top](https://chat.yqcloud.top)
-- [https://www.askopenai.cn](https://www.askopenai.cn)
-- [https://chat.wxredcover.cn](https://chat.wxredcover.cn)
-- [https://94gpt.com](https://94gpt.com)
-- [https://trychatgp.com](https://trychatgp.com)
-- [https://chatgpt.poshist.cn](https://chatgpt.poshist.cn)
-- [https://www.aitoolgpt.com](https://www.aitoolgpt.com)
-- https://chat.paoying.net
-- https://chatgptproxy.info/#
-- https://chat2.geekr.dev
-- https://dev.yqcloud.top
-- https://gitopenchina.gitee.io
-- https://chat2.xeasy.me
-
-
-
-
-
-
-&nbsp;
-
-### **第二梯队：**
-
-&nbsp;
-
-- [https://ai.ls](https://ai.ls)（需要魔法）
-- [https://ai.ci](https://ai.ci)（需要魔法）
-- [https://desk.im](https://desk.im)（需要魔法）
-- [https://chatgpt.ddiu.me](https://chatgpt.ddiu.me)（源码 Demo）
-
-- https://www.545852.xyz
-- https://www.scyu.app
-- https://chatgpt-local.vercel.app
-- https://ai117.com
-- https://vrtalk.io
-
-
-
-&nbsp;
-
-
-
-
-&nbsp;
-
-
-
-
-
-
-
-## 三、平替应用
+## 三、类似应用
 
 
 
@@ -146,118 +155,119 @@ ChatGPT 最大的特点是能够回答你提出的各种问题，并根据我所
 
 &nbsp;
 
-简介：微软推出的 ChatGPT 应用，但目前还在测试阶段，需要申请“WaitList”。
+微软推出的类 ChatGPT 应用，集成了“**搜索+聊天+GPT**”三个功能，目前已经全量开放，申请即可直接使用。
 
 
 
-技巧：据网友们的经验，使用全新微软帐号，然后在 Bing 手机 APP 上申请，3 天内必通过。
+并且，微软宣布 NewBing 已经使用了 **GPT 4** 的模型，搜索结果更强大，也更准确。
 
 
 
-![S31_YouChat](https://gcore.jsdelivr.net/gh/runningcheese/Blog/Inbox/S31_Bing.png)
+Edge 浏览器集成的 **Chat** 侧边栏，更是阅读本地文档的利器。
 
 
 
-而且，在最新 **Beta** 和 **Dev** 版 Edge 浏览器里，已经支持浏览器直接调用功能了。
+![S31_Bing2](https://gimg2.baidu.com/image_search/&app=2020&src=tvax1.sinaimg.cn/large/7a6a15d5gy1hcd7qvujyrj22bs1eq4qq.jpg)
 
 
 
-![S31_Bing2](https://jsd.cdn.zzko.cn/gh/runningcheese/Blog@main/Inbox/S31_Bing2.png)
 
 
 
-&nbsp;
 
-### 3.2、[YouChat](https://you.com)
-
-&nbsp;
-
-简介：输入内容搜索后，点击“**Chat**”一栏即可使用，是目前少数能稳定多次运行的在线应用。（但需要魔法！）
+### 3.2、[文心一言](https://yiyan.baidu.com)
 
 
 
-![S31_YouChat](https://gcore.jsdelivr.net/gh/runningcheese/Blog/Inbox/S31_YouChat.png)
+由百度公司推出的类 ChatGPT 应用，目前还在测试阶段，**需要申请**才能使用。
 
 
 
-&nbsp;
 
-### 3.3、[Teach Anything](https://www.teach-anything.com/)
 
-&nbsp;
-
-简介：一款基于 **OpenAI GPT-3**  API 的智能在线问答工具程序，支持中英文多国语言，分为简易和专业两种模式。
-
-特性：而且开源，再加上使用的是 Vercel 服务器，也就是说你可以不限次数使用。👍
+### 3.3、[Bard](https://bard.google.com/)
 
 
 
-![i31_TechAnything](https://gcore.jsdelivr.net/gh/runningcheese/Blog/Inbox/S31_TechAnything.png)
-
-&nbsp;
-
-### 3.4、[MagickPen](https://magickpen.com)
-
-&nbsp;
-
-简介：是 Teach Anything 的专业版本，支持写作、翻译、语法和代码，算得上是**目前 ChatGPT 的最佳平替**。👍
+由谷歌公司推出的类 ChatGPT 应用，目前还在测试阶段，**需要申请**才能使用。
 
 
 
-特性：你可以自定义“**使用场景**”，让你得到的内容更加自然，但默认每天只有 **10** 免费学分额度。
+
+
+### 3.4、[ChatSonic](https://writesonic.com/chat)
 
 
 
-![S31_MagicPen](https://gcore.jsdelivr.net/gh/runningcheese/Blog/Inbox/S31_MagicPen.png)
+由 Writesonic 公司推出，ChatSonic 集成了“**搜索+聊天+GPT**”，而且还有图片生成功能，对标的自是 **NewBing**。
 
 
 
-不过，我发现一个“**BUG**”了。
+值得一说的是，搜索技术是由谷歌提供。
 
 
 
-当你清除网站的 **Cookies** 时，学分额度就会恢复到 **10**，也就是说你可以不限次数地“**白票**”。（PS：请合理使用）
+目前可以**免魔法访问**，注册后即可直接使用，注册用户**每月**可免费使用 **1** 万字。
 
 
 
-![S31_MagicPen2](https://gcore.jsdelivr.net/gh/runningcheese/Blog/Inbox/S31_MagicPen2.png)
+遗憾的是，没有中文界面，但聊天支持中文。
+
+
+
+![S31_ChatSonic](https://gimg2.baidu.com/image_search/&app=2020&src=tvax1.sinaimg.cn/large/7a6a15d5gy1hcd7qwe33tj228c1ec4nm.jpg)
+
+
 
 
 
 &nbsp;
 
-### 3.5、[Notion AI](https://www.notion.so/product/ai)
+### 3.5、[Poe](https://poe.com/sage)
+
+
+
+Poe 是国外知识问答网站 Quora，基于多个**第三方大型语言模型训练**的 AI 聊天应用，顶部有多个机器人名称。
+
+
+
+**Sage**：更擅长英语以外的语言。
+
+**Claude**：专注于英语，更擅长于创意写作任务。
+
+**Claude+**：优于 Claude，尤其是在非英语语言方面。
+
+**ChatGPT**：原版 ChatGPT
+
+**Dragonfly**：响应内容较短，因为它使用的是 **text-davinci-003** 模型。
+
+**GPT-4**：目前可用的最强大语言模型，在 Poe 上每天可以**免费试用一次**。
+
+
+
+PS：需要**使用魔法**访问，如出现 message timeout 的情况，刷新即可。
+
+
+
+![S31_Poe](https://gimg2.baidu.com/image_search/&app=2020&src=tvax1.sinaimg.cn/large/7a6a15d5gy1hcd7qwwwdpj228c1ec1kx.jpg)
+
+
 
 &nbsp;
 
-**Notion AI** 是一款写作 AI 工具，支持撰写、头脑风暴、编辑和总结等操作。
-
-
-
-只需告诉应用程序你要写什么，如博客文章、社交媒体帖子、新闻稿或职位描述，即可轻松实现。
-
-
-
-目前，Notion AI 已经面向所有用户开放，免费用户可以每天试用 30 次。
-
-
-
-![S31_Notion3](https://jsd.cdn.zzko.cn/gh/runningcheese/Blog@main/Inbox/S31_Notion3.png)
-
-
+### 3.6、[YouChat](https://you.com)
 
 &nbsp;
 
-### 3.6、[FlowUs AI](https://flowus.cn/product)
-
-&nbsp;
-
-FlowUs AI 的模型与 Notion 一样。
+YouChat 是国外搜索引擎 You.com，基于 GPT 开发的 AI 聊天 应用，但目前似乎并没有融合进“**搜索**”功能。
 
 
 
-目前主要包括头脑风暴、列大纲、续写、润色、总结、翻译等功能，功能更偏向于中文，但目前还在内测阶段。
+只是单纯的类 ChatGPT 应用，而且国内访问**需要魔法**。
 
+
+
+![S31_YouChat](https://gimg2.baidu.com/image_search/&app=2020&src=tvax1.sinaimg.cn/large/7a6a15d5gy1hcd7qxikahj228c1ece81.jpg)
 
 
 
@@ -365,7 +375,144 @@ FlowUs AI 的模型与 Notion 一样。
 
 
 
-## 五、ChatGPT 应用
+
+
+
+
+
+
+&nbsp;
+
+## 五、使用技巧
+
+&nbsp;
+
+下面这些网站收集了网友使用过的一些使用技巧，可以让你上手 ChatGPT 更快速。
+
+
+
+
+
+### 5.1、英文技巧
+
+&nbsp;
+
+- [GPT-3 Demo.com](https://gpt3demo.com)：一个汇聚了所有 ChatGPT 应用的资讯网站。
+- [FlowGPT](https://flowgpt.com)：目前最“手把手”的 ChatGPT 提示、用法、用例网站。👍
+- [ShowGPT](https://showgpt.co)：ChatGPT 提示词收集网站
+- [Awesome ChatGPT Prompts](https://prompts.chat)：ChatGPT 提示词收集网站
+- [Learn Prompt Engineering](https://www.emergentmind.com/)：一个 ChatGPT 提示词的交流论坛。
+
+
+
+
+
+### 5.2、中文技巧
+
+
+
+- [ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)：各种场景使用指南，学习怎么让它听你的话。    
+- [ChatGPT Shortcut](https://newzone.top/chatgpt/cn/?name=%C3%A7%C3%A7)：简单易用的 ChatGPT 快捷指令表
+- [ChatGPT 指令大全](https://www.explainthis.io/zh-hans/chatgpt)：提供精炼过的指令语句。
+- [你用 ChatGPT 生成过哪些有趣的回答](https://www.zhihu.com/question/570430650)：知乎问答案。
+
+
+
+
+
+
+## 六、撰写应用
+
+&nbsp;
+
+### 6.1、[Teach Anything](https://www.teach-anything.com/)
+
+&nbsp;
+
+一款基于 **OpenAI GPT-3**  API 的智能在线问答工具程序，支持中英文多国语言，分为简易和专业两种模式。
+
+
+
+特性：而且开源，再加上使用的是 Vercel 服务器，也就是说你可以不限次数使用。👍
+
+
+
+![i31_TechAnything](https://gcore.jsdelivr.net/gh/runningcheese/Blog/Inbox/S31_TechAnything.png)
+
+&nbsp;
+
+### 6.2、[MagickPen](https://magickpen.com)
+
+&nbsp;
+
+简介：是 Teach Anything 的专业版本，支持写作、翻译、语法和代码，算得上是**目前 ChatGPT 的最佳平替**。👍
+
+
+
+特性：你可以自定义“**使用场景**”，让你得到的内容更加自然，但默认每天只有 **10** 免费学分额度。
+
+
+
+![S31_MagicPen](https://gcore.jsdelivr.net/gh/runningcheese/Blog/Inbox/S31_MagicPen.png)
+
+
+
+不过，我发现一个“**BUG**”了。
+
+
+
+当你清除网站的 **Cookies** 时，学分额度就会恢复到 **10**，也就是说你可以不限次数地“**白票**”。（PS：请合理使用）
+
+
+
+![S31_MagicPen2](https://gcore.jsdelivr.net/gh/runningcheese/Blog/Inbox/S31_MagicPen2.png)
+
+
+
+
+
+
+
+### 6.3、[Notion AI](https://www.notion.so/product/ai)
+
+&nbsp;
+
+**Notion AI** 是一款写作 AI 工具，支持撰写、头脑风暴、编辑和总结等操作。
+
+
+
+只需告诉应用程序你要写什么，如博客文章、社交媒体帖子、新闻稿或职位描述，即可轻松实现。
+
+
+
+目前，Notion AI 已经面向所有用户开放，免费用户可以每天试用 30 次。
+
+
+
+![S31_Notion3](https://cdn.jsdelivr.ren/gh/runningcheese/Blog@main/Inbox/S31_Notion3.png)
+
+
+
+&nbsp;
+
+### 6.4、[FlowUs AI](https://flowus.cn/product)
+
+&nbsp;
+
+FlowUs AI 的模型与 Notion 一样。
+
+
+
+目前主要包括头脑风暴、列大纲、续写、润色、总结、翻译等功能，功能更偏向于中文，但目前还在内测阶段。
+
+
+
+
+
+
+
+
+## 七、ChatGPT 应用
 &nbsp;
 &nbsp;
 
@@ -474,31 +621,6 @@ AI 论文写作校对润色神器，是 Grammarly 的最大对手。
 
 
 
-
-
-## 六、使用技巧
-
-&nbsp;
-
-下面这些网站收集了网友使用过的一些使用技巧，可以让你上手 ChatGPT 更快速。
-
-
-
-&nbsp;
-
-- [GPT-3 Demo.com](https://gpt3demo.com)：一个汇聚了所有 ChatGPT 应用的资讯网站。
-- [FlowGPT](https://flowgpt.com)：目前最“手把手”的 ChatGPT 提示、用法、用例网站。👍
-- [ShowGPT](https://showgpt.co)：ChatGPT 提示词收集网站
-- [Awesome ChatGPT Prompts](https://prompts.chat)：ChatGPT 提示词收集网站
-- [ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)：各种场景使用指南，学习怎么让它听你的话。    
-- [ChatGPT 指令大全](https://www.explainthis.io/zh-hans/chatgpt)：提供精炼过的指令语句。
-- [Learn Prompt Engineering](https://www.emergentmind.com/)：一个 ChatGPT 提示词的交流论坛。
-- [你用 ChatGPT 生成过哪些有趣的回答](https://www.zhihu.com/question/570430650)：知乎问答案。
-
-
-
-
-&nbsp;
 
 ## Starchart
 

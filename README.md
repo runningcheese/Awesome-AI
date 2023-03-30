@@ -323,7 +323,7 @@ API 获取地址：[https://platform.openai.com/account/api-keys](https://platfo
 就可以快速、稳定地使用 ChatGPT，让你可以白票完这免费的 18 美元，而且还能保存聊天记录和 prompt 提示。
 
 
-
+![S31_ChatBox](https://gcore.jsdelivr.net/gh/runningcheese/Awesome-ChatGPT/Images/S31_ChatBox.png)
 
 
 下载地址：

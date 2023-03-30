@@ -301,12 +301,12 @@ YouChat 是国外搜索引擎 You.com，基于 GPT 开发的 AI 聊天 应用，
 
 
 
-
+&nbsp;
 ### 4.1、[Chatbox](https://github.com/Bin-Huang/chatbox)
 
 
 
-
+&nbsp;
 
 由于 ChatGPT 网页版缓慢，所以，基于 API 的 ChatGPT 桌面客户端 **Chatbox** 诞生了。
 
@@ -589,7 +589,7 @@ FlowUs AI 的模型与 Notion 一样。
 
 
 
-
+&nbsp;
 ## 九、ChatGPT 应用
 &nbsp;
 &nbsp;

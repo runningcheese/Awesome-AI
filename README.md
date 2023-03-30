@@ -293,13 +293,120 @@ YouChat 是国外搜索引擎 You.com，基于 GPT 开发的 AI 聊天 应用，
 
 &nbsp;
 
-## **四、辅助工具**
+
+&nbsp;
+
+## **四、桌面应用（New）**
+
+
+
+
+
+### 4.1、[Chatbox](https://github.com/Bin-Huang/chatbox)
+
+
+
+
+
+由于 ChatGPT 网页版缓慢，所以，基于 API 的 ChatGPT 桌面客户端 **Chatbox** 诞生了。
+
+
+
+只需要设置好 API。
+
+
+
+API 获取地址：[https://platform.openai.com/account/api-keys](https://platform.openai.com/account/api-keys)
+
+
+
+就可以快速、稳定地使用 ChatGPT，让你可以白票完这免费的 18 美元，而且还能保存聊天记录和 prompt 提示。
+
+
+
+
+
+下载地址：
+
+[https://github.com/Bin-Huang/chatbox/releases](https://github.com/Bin-Huang/chatbox/releases)
+
+
+
+Windows 快速下载：
+
+[https://ghproxy.com/https://github.com/Bin-Huang/chatbox/releases/download/Chatbox-v0.2.8/chatbox_0.2.8_x64_en-US.msi](https://ghproxy.com/https://github.com/Bin-Huang/chatbox/releases/download/Chatbox-v0.2.8/chatbox_0.2.8_x64_en-US.msi)
+
+
+
+Mac 快速下载：
+
+[https://ghproxy.com/https://github.com/Bin-Huang/chatbox/releases/download/Chatbox-v0.2.8/chatbox_0.2.8_x64.dmg](https://ghproxy.com/https://github.com/Bin-Huang/chatbox/releases/download/Chatbox-v0.2.8/chatbox_0.2.8_x64.dmg)
 
 
 
 &nbsp;
 
-### **4.1、浏览器扩展**
+### 4.2、[ChatGPT Desktop](https://github.com/lencx/ChatGPT)
+
+
+
+简单地将 ChatGPT 网页版打包为桌面版，支持 Mac、Windows、Linux 三个平台。
+
+
+
+&nbsp;&nbsp;
+
+
+
+## 五、手机应用
+
+&nbsp;
+
+
+
+### 5.1、[NewBing APP](https://apps.apple.com/us/app/microsoft-bing-search/id345323231?uo=4&at=11l6hc&app=itunes&ct=fnd)
+
+
+
+由微软推出的 ChatGPT 应用，目前使用美版 Bing App，可直接使用。
+
+&nbsp;
+
+
+
+### 5.2、[Poe](https://poe.com/)
+
+
+
+Poe 是问答社区 Quora 旗下的一款 AI 问答应用，目前完全免费，但目前只有 iOS 版。
+
+&nbsp;
+
+
+
+### 5.3、[ChatGPT 在线](https://miui.lanzoum.com/iSZGU0qosssf)
+
+
+
+由国内开发者基于 ChatGPT开发的安卓应用，国内可免魔法直接使用，有问答、聊天、写作、绘画 4 大功能。
+
+
+
+免费用户每天免费使用 20 次。
+
+
+
+下载：[https://miui.lanzoum.com/iSZGU0qosssf](https://miui.lanzoum.com/iSZGU0qosssf)
+
+
+
+
+
+
+
+&nbsp;
+
+## **六、浏览器扩展**
 
 &nbsp;
 
@@ -340,55 +447,7 @@ YouChat 是国外搜索引擎 You.com，基于 GPT 开发的 AI 聊天 应用，
 
 
 
-&nbsp;
 
-### **4.2、桌面应用**
-
-
-
-&nbsp;
-
-名称：[Chatgpt](https://github.com/lencx/ChatGPT)
-
-简介：支持 Mac、Windows、Linux 三个平台。
-
-&nbsp;
-
-
-
-名称：[ChatGPT Mac](https://github.com/vincelwt/chatgpt-mac)
-
-简介：在状态栏打开 ChatGPT，目前只支持 Mac
-
-&nbsp;
-
-
-
-### 4.3、手机应用
-
-&nbsp;
-
-
-
-名称：[Poe](https://poe.com/) 
-
-简介：Poe 是问答社区 Quora 旗下的一款 AI 问答应用，目前完全免费，但目前只有 iOS 版。
-
-&nbsp;
-
-
-
-名称：[Bing](https://apps.apple.com/us/app/microsoft-bing-search/id345323231?uo=4&at=11l6hc&app=itunes&ct=fnd)
-
-简介：由微软推出的 ChatGPT 应用，目前使用美版 Bing App，可直接使用。
-
-&nbsp;
-
-
-
-
-
-&nbsp;
 
 
 
@@ -400,7 +459,9 @@ YouChat 是国外搜索引擎 You.com，基于 GPT 开发的 AI 聊天 应用，
 
 &nbsp;
 
-## 五、使用技巧
+
+
+## 七、使用技巧
 
 &nbsp;
 
@@ -410,7 +471,7 @@ YouChat 是国外搜索引擎 You.com，基于 GPT 开发的 AI 聊天 应用，
 
 
 &nbsp;
-### 5.1、英文技巧
+### 7.1、英文技巧
 
 &nbsp;
 
@@ -424,7 +485,7 @@ YouChat 是国外搜索引擎 You.com，基于 GPT 开发的 AI 聊天 应用，
 
 
 &nbsp;
-### 5.2、中文技巧
+### 7.2、中文技巧
 
 &nbsp;
 
@@ -438,11 +499,11 @@ YouChat 是国外搜索引擎 You.com，基于 GPT 开发的 AI 聊天 应用，
 
 
 
-## 六、撰写应用
+## 八、撰写应用
 
 &nbsp;
 
-### 6.1、[Teach Anything](https://www.teach-anything.com/)
+### 8.1、[Teach Anything](https://www.teach-anything.com/)
 
 &nbsp;
 
@@ -458,7 +519,7 @@ YouChat 是国外搜索引擎 You.com，基于 GPT 开发的 AI 聊天 应用，
 
 &nbsp;
 
-### 6.2、[MagickPen](https://magickpen.com)
+### 8.2、[MagickPen](https://magickpen.com)
 
 &nbsp;
 
@@ -490,7 +551,7 @@ YouChat 是国外搜索引擎 You.com，基于 GPT 开发的 AI 聊天 应用，
 
 
 
-### 6.3、[Notion AI](https://www.notion.so/product/ai)
+### 8.3、[Notion AI](https://www.notion.so/product/ai)
 
 &nbsp;
 
@@ -529,7 +590,7 @@ FlowUs AI 的模型与 Notion 一样。
 
 
 
-## 七、ChatGPT 应用
+## 九、ChatGPT 应用
 &nbsp;
 &nbsp;
 

@@ -331,16 +331,11 @@ API 获取地址：[https://platform.openai.com/account/api-keys](https://platfo
 [https://github.com/Bin-Huang/chatbox/releases](https://github.com/Bin-Huang/chatbox/releases)
 
 
+Windows 快速下载：[地址](https://ghproxy.com/https://github.com/Bin-Huang/chatbox/releases/download/Chatbox-v0.2.8/chatbox_0.2.8_x64_en-US.msi)
 
-Windows 快速下载：
-
-[https://ghproxy.com/https://github.com/Bin-Huang/chatbox/releases/download/Chatbox-v0.2.8/chatbox_0.2.8_x64_en-US.msi](https://ghproxy.com/https://github.com/Bin-Huang/chatbox/releases/download/Chatbox-v0.2.8/chatbox_0.2.8_x64_en-US.msi)
-
+Mac 快速下载：[地址](https://ghproxy.com/https://github.com/Bin-Huang/chatbox/releases/download/Chatbox-v0.2.8/chatbox_0.2.8_x64.dmg)
 
 
-Mac 快速下载：
-
-[https://ghproxy.com/https://github.com/Bin-Huang/chatbox/releases/download/Chatbox-v0.2.8/chatbox_0.2.8_x64.dmg](https://ghproxy.com/https://github.com/Bin-Huang/chatbox/releases/download/Chatbox-v0.2.8/chatbox_0.2.8_x64.dmg)
 
 
 

@@ -80,7 +80,8 @@ ChatGPT 最大的特点是能够回答你提出的各种问题，并根据我所
 
 | ▼ **镜像网站**                                           | **简介**                                     |
 | -------------------------------------------------------- | -------------------------------------------- |
-| 🌐 [https://qachat.cc](https://qachat.cc)                 | 很快、无限制                                 |
+| 🌐 [https://www.dcmgpt.com](https://www.dcmgpt.com)       | 很快、无限制                                 |
+| 🌐 [https://qachat.cc](https://qachat.cc)                 | 很快、无限制、需魔法                          |
 | 🌐 [https://chat.theb.ai](https://chat.theb.ai)           | 很快、无限制、需魔法                         |
 | 🌐 [https://freegpt.one](https://freegpt.one)             | 很快、无限制、需魔法                         |
 | 🌐 [https://94gpt.com](https://94gpt.com)                 | 很快、无限制、需魔法                         |
@@ -104,30 +105,12 @@ ChatGPT 最大的特点是能够回答你提出的各种问题，并根据我所
 
 下面介绍的集成应用，它们不但不会失效，并且没有使用限制。
 
-
 &nbsp;
-首先是 [Cursor](https://www.cursor.so)。
 
-
-
-原本它是一个编程类 AI 辅助工具，只会回答编程类话题，但如果“**新建一个没有后缀名的文件**”，打开聊天窗口。
-
-
-
-**就会解除所有限制**。下载地址：[https://www.cursor.so](https://www.cursor.so)
-
-
-
-![S31_Cursor](https://gimg2.baidu.com/image_search/&app=2020&src=tvax1.sinaimg.cn/large/7a6a15d5gy1hcd7o4hqtqj228c1ecnm0.jpg)
-
-
-&nbsp;
-其次是 [LunaBot](https://lunabot.ai/)。
-
+首先是 [LunaBot](https://lunabot.ai/)。
 
 
 它是一个浏览器扩展，也集成了 ChatGPT 3.5，可以在任何网页上使用 ChatGPT，免费用户也可以无限制使用。
-
 
 
 地址：[Chrome](https://chrome.google.com/webstore/detail/jkeolmadidncndcbnajhaojepbolajag)、[Edge](https://microsoftedge.microsoft.com/addons/detail/pcilgakddbmfdpbpfbdjfjgaaiahogab)、[Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/lunabot-chatgpt-on-webpages/)、[本地下载](https://www.crxsoso.com/webstore/detail/jkeolmadidncndcbnajhaojepbolajag)
@@ -137,6 +120,22 @@ ChatGPT 最大的特点是能够回答你提出的各种问题，并根据我所
 ![S31_LunaBot](https://gimg2.baidu.com/image_search/&app=2020&src=tvax1.sinaimg.cn/large/7a6a15d5gy1hcd7quxmfrj228c1echdt.jpg)
 
 
+
+&nbsp;
+
+其次是 [Cursor](https://www.cursor.so)。
+
+
+原本它是一个编程类 AI 辅助工具，只会回答编程类话题，但如果“**新建一个没有后缀名的文件**”，打开聊天窗口。
+
+如果不行，那就新建一个后缀名为 **.md** 的文件。
+
+
+**就会解除所有限制**。下载地址：[https://www.cursor.so](https://www.cursor.so)
+
+
+
+![S31_Cursor](https://gimg2.baidu.com/image_search/&app=2020&src=tvax1.sinaimg.cn/large/7a6a15d5gy1hcd7o4hqtqj228c1ecnm0.jpg)
 
 
 &nbsp;

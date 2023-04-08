@@ -125,7 +125,6 @@ OpenAI 正式开放了 **GPT-3.5-turbo** 的 API。
 | 🌐 [https://www.chat-crct.info](https://www.chat-crct.info)   | 反应稍慢                                                  |
 | 🌐 [https://hzdjs.cn/chatgpt](https://hzdjs.cn/chatgpt)       | 多个支持线路                                              |
 |                                |                                           |
-|                                                              |                                                           |
 | ▼ **需魔法网站**                                             |                                                           |
 | 🌐 [https://qachat.cc](https://qachat.cc)                     | 无限制、需魔法                                            |
 | 🌐 [https://chat.theb.ai](https://chat.theb.ai)               | 无限制、需魔法                                            |
@@ -161,7 +160,6 @@ OpenAI 正式开放了 **GPT-3.5-turbo** 的 API。
 首先是 [ChatGPT Sidebar](https://chatgpt-sidebar.com/)
 
 
-
 它可以在任意网页中打开侧边栏，询问 ChatGPT 关于页面内容的任何事情，如解释、翻译、概括或重写。
 
 
@@ -174,7 +172,7 @@ OpenAI 正式开放了 **GPT-3.5-turbo** 的 API。
 
 
 
-![S31_ChatGPT_Sidebar]([_Images/S31 - ChatGPT/S31_ChatGPT_Sidebar.png](https://gimg2.baidu.com/image_search/&app=2020&src=tvax1.sinaimg.cn/large/7a6a15d5gy1hcs8oz8085j228c1ece81.jpg))
+![S31_ChatGPT_Sidebar](https://gimg2.baidu.com/image_search/&app=2020&src=tvax1.sinaimg.cn/large/7a6a15d5gy1hcs8oz8085j228c1ece81.jpg)
 
 
 &nbsp;

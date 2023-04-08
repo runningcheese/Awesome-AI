@@ -22,9 +22,6 @@ ChatGPT 最大的特点是能够回答你提出的各种问题，并根据我所
 
 
 
-&nbsp;
-
-
 
 &nbsp;
 
@@ -48,11 +45,11 @@ ChatGPT 最大的特点是能够回答你提出的各种问题，并根据我所
 
 
 
-
+&nbsp;
 
 ### 1.2、API Key
 
-
+&nbsp;
 
 ChatGPT 的 API，是众多 AI 应用的基础，不用 API，它的作用将大减一半。
 
@@ -65,9 +62,9 @@ ChatGPT 的 API，是众多 AI 应用的基础，不用 API，它的作用将大
 API Key 地址：[https://platform.openai.com/account/api-keys](https://platform.openai.com/account/api-keys)
 
 
-
+&nbsp;
 **收费明细：**
-
+&nbsp;
 
 
 每 0.002 美元 1000 Tokens，
@@ -91,7 +88,7 @@ GPT 4 的 Token 消耗，根据使用情况是 GPT3 的 15 倍 和 30 倍，而�
 
 
 
-## 二、GPT 3.5 Turbo&nbsp;
+## 二、GPT 3.5 Turbo&nbsp;（New!）
 
 &nbsp;
 
@@ -127,7 +124,7 @@ OpenAI 正式开放了 **GPT-3.5-turbo** 的 API。
 | 🌐 [https://greengpt.app](https://greengpt.app)               | 英文界面、支持多种模型、反应稍慢                          |
 | 🌐 [https://www.chat-crct.info](https://www.chat-crct.info)   | 反应稍慢                                                  |
 | 🌐 [https://hzdjs.cn/chatgpt](https://hzdjs.cn/chatgpt)       | 多个支持线路                                              |
-| https://cheesechat.vercel.app                                | 2CcK48387z3338                                            |
+|                                |                                           |
 |                                                              |                                                           |
 | ▼ **需魔法网站**                                             |                                                           |
 | 🌐 [https://qachat.cc](https://qachat.cc)                     | 无限制、需魔法                                            |
@@ -137,7 +134,7 @@ OpenAI 正式开放了 **GPT-3.5-turbo** 的 API。
 | 🌐 [https://94gpt.com](https://94gpt.com)                     | 无限制、需魔法                                            |
 | 🌐 [https://chatgptproxy.info](https://chatgptproxy.info)     | 无限制、需魔法                                            |
 
-
+&nbsp;
 
 更多镜像：[ChatGPT 免费网站在线体验列表导航站](https://lzw.me/x/chatgpt-sites/)
 
@@ -146,10 +143,10 @@ OpenAI 正式开放了 **GPT-3.5-turbo** 的 API。
 
 
 
-
+&nbsp;
 ### 2.2、集成应用
 
-
+&nbsp;
 
 但由于国内政策和服务器开销的原因，GPT-3.5-turbo 的网站，要么有使用次数限制，要么需要“**魔法”**才能打开。
 
@@ -160,7 +157,7 @@ OpenAI 正式开放了 **GPT-3.5-turbo** 的 API。
 
 
 
-
+&nbsp;
 首先是 [ChatGPT Sidebar](https://chatgpt-sidebar.com/)
 
 
@@ -177,10 +174,10 @@ OpenAI 正式开放了 **GPT-3.5-turbo** 的 API。
 
 
 
-![S31_ChatGPT_Sidebar](_Images/S31 - ChatGPT/S31_ChatGPT_Sidebar.png)
+![S31_ChatGPT_Sidebar]([_Images/S31 - ChatGPT/S31_ChatGPT_Sidebar.png](https://gimg2.baidu.com/image_search/&app=2020&src=tvax1.sinaimg.cn/large/7a6a15d5gy1hcs8oz8085j228c1ece81.jpg))
 
 
-
+&nbsp;
 其次是 [LunaBot](https://lunabot.ai/)。
 
 
@@ -195,7 +192,7 @@ OpenAI 正式开放了 **GPT-3.5-turbo** 的 API。
 
 ![S31_LunaBot](https://gimg2.baidu.com/image_search/&app=2020&src=tvax1.sinaimg.cn/large/7a6a15d5gy1hcd7quxmfrj228c1echdt.jpg)
 
-
+&nbsp;
 
 还有是 [Cursor](https://www.cursor.so)。
 

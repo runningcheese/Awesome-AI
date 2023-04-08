@@ -24,43 +24,78 @@ ChatGPT 最大的特点是能够回答你提出的各种问题，并根据我所
 
 &nbsp;
 
+
+
+&nbsp;
+
 ### 1.1、注册帐号
 
 &nbsp;
 
-官网：https://chat.openai.com
+官网：[https://chat.openai.com](https://chat.openai.com)
 
 
 
-注册：[中国区注册 OpenAI 账号试用 ChatGPT 指南](https://readdevdocs.com/blog/makemoney/%E4%B8%AD%E5%9B%BD%E5%8C%BA%E6%B3%A8%E5%86%8COpenAI%E8%B4%A6%E5%8F%B7%E8%AF%95%E7%94%A8ChatGPT%E6%8C%87%E5%8D%97.html#%E5%89%8D%E6%9C%9F%E5%87%86%E5%A4%87)
+注册：[中国区注册 OpenAI 账号](https://readdevdocs.com/blog/makemoney/%E4%B8%AD%E5%9B%BD%E5%8C%BA%E6%B3%A8%E5%86%8COpenAI%E8%B4%A6%E5%8F%B7%E8%AF%95%E7%94%A8ChatGPT%E6%8C%87%E5%8D%97.html#%E5%89%8D%E6%9C%9F%E5%87%86%E5%A4%87)
 
 
 
-备注：目前 ChatGPT 未对中国大陆开放，需要魔法访问，注册需要境外手机号，一般要花费 **7** 元。
+备注：ChatGPT 未对大陆开放，访问时需要魔法（**香港节点不可用**），注册时需要境外手机号，花费大约 **14** 元。
+
+
+
+共享帐号：[https://terobox.com](https://terobox.com)，可免费试用，但效果不佳。
+
+
+
+
+
+### 1.2、API Key
+
+
+
+ChatGPT 的 API，是众多 AI 应用的基础，不用 API，它的作用将大减一半。
+
+
+
+**但它并不免费**，ChatGPT 送了注册用户 18 美元的额度，但不管你用不用，3 个月后 ChatGPT 都会收回。
+
+
+
+API Key 地址：[https://platform.openai.com/account/api-keys](https://platform.openai.com/account/api-keys)
+
+
+
+**收费明细：**
+
+
+
+每 0.002 美元 1000 Tokens，
+
+每 100 万单词 18 元 RMB，
+
+每 100 万汉字  28.5 元 RMB，
+
+每 1 元 RMB 约 3.5 万个汉字 。
+
+
+
+GPT 4 的 Token 消耗，根据使用情况是 GPT3 的 15 倍 和 30 倍，而且必须是 **Plus** 付费用户。
+
+
+
 
 
 
 &nbsp;
 
-### **1.2、共享账号**
-
-&nbsp;
-**登录：**[https://chat.openai.com/auth/login](https://chat.openai.com/auth/login)（注意：香港节点不可用。）
-
-&nbsp;
-**账号共享：**[https://terobox.com](https://terobox.com)，可免费试用，但效果不佳，经常爆满，ChatGPT 本身也可能经常爆满连不上。
 
 
+## 二、GPT 3.5 Turbo&nbsp;
 
 &nbsp;
 
-## 二、**镜像网站**
-
-
-&nbsp;
-&nbsp;
-
-3月1日，OpenAI 正式开放了 **GPT-3.5-turbo** 的 API。
+OpenAI 正式开放了 **GPT-3.5-turbo** 的 API。
 
 
 
@@ -68,7 +103,11 @@ ChatGPT 最大的特点是能够回答你提出的各种问题，并根据我所
 
 
 
-最重要的是，它的**速度非常快**，不愧是 **Turbo** 版，再也不需要忍受“**打字式**”聊天了。
+而且，一旦你获取了 API Key 后，就不再需要访问 ChatGPT 了，最重要的是，它的**速度非常快**。
+
+
+
+这也是第三方 ChatGPT 网站和应用春笋般涌现的原因。
 
 &nbsp;
 
@@ -78,39 +117,76 @@ ChatGPT 最大的特点是能够回答你提出的各种问题，并根据我所
 
 
 
-| ▼ **镜像网站**                                           | **简介**                                     |
-| -------------------------------------------------------- | -------------------------------------------- |
-| 🌐 [https://www.dcmgpt.com](https://www.dcmgpt.com)       | 很快、无限制                                 |
-| 🌐 [https://qachat.cc](https://qachat.cc)                 | 很快、无限制、需魔法                          |
-| 🌐 [https://chat.theb.ai](https://chat.theb.ai)           | 很快、无限制、需魔法                         |
-| 🌐 [https://freegpt.one](https://freegpt.one)             | 很快、无限制、需魔法                         |
-| 🌐 [https://94gpt.com](https://94gpt.com)                 | 很快、无限制、需魔法                         |
-| 🌐 [https://chatgptproxy.info](https://chatgptproxy.info) | 很快、无限制、需魔法                         |
-| 🌐 [https://dev.yqcloud.top](https://dev.yqcloud.top)     | 很快、无限制、国内打开稍慢                   |
-| 🌐 [https://chatforai.online](https://chatforai.online)   | 很快、免费 10 次，清除 Cookie 可重置使用次数 |
+| ▼ **免魔法网站**                                             | 说明                                                      |
+| ------------------------------------------------------------ | --------------------------------------------------------- |
+| 🌐 [https://chat20.yqcloud.top](https://chat20.yqcloud.top)   | 支持联网搜索                                              |
+| 🌐 [https://chat1.binjie.site:7777](https://chat1.binjie.site:7777) | 支持联网搜索、可换用 chat2、chat3、一直到 chat9           |
+| 🌐 [https://chat.aidutu.cn](https://chat.aidutu.cn)           | 靠广告回血、安装 Ublock 可过滤                            |
+| 🌐 [https://ai.bo-e.com](https://ai.bo-e.com)                 | 靠打赏回血、不想捐助要等 5 秒                             |
+| 🌐 [https://chat.lmsys.org](https://chat.lmsys.org)           | 130 亿参数的骆马（Vicuna）模型，能实现 ChatGPT 90% 的性能 |
+| 🌐 [https://greengpt.app](https://greengpt.app)               | 英文界面、支持多种模型、反应稍慢                          |
+| 🌐 [https://www.chat-crct.info](https://www.chat-crct.info)   | 反应稍慢                                                  |
+| 🌐 [https://hzdjs.cn/chatgpt](https://hzdjs.cn/chatgpt)       | 多个支持线路                                              |
+| https://cheesechat.vercel.app                                | 2CcK48387z3338                                            |
+|                                                              |                                                           |
+| ▼ **需魔法网站**                                             |                                                           |
+| 🌐 [https://qachat.cc](https://qachat.cc)                     | 无限制、需魔法                                            |
+| 🌐 [https://chat.theb.ai](https://chat.theb.ai)               | 无限制、需魔法                                            |
+| 🌐 [https://www.dcmgpt.com](https://www.dcmgpt.com)           | 无限制、需魔法                                            |
+| 🌐 [https://freegpt.one](https://freegpt.one)                 | 无限制、需魔法                                            |
+| 🌐 [https://94gpt.com](https://94gpt.com)                     | 无限制、需魔法                                            |
+| 🌐 [https://chatgptproxy.info](https://chatgptproxy.info)     | 无限制、需魔法                                            |
+
+
+
+更多镜像：[ChatGPT 免费网站在线体验列表导航站](https://lzw.me/x/chatgpt-sites/)
 
 
 
 
-&nbsp;
+
+
+
 ### 2.2、集成应用
 
-&nbsp;
 
 
-
-由于国内政策和服务器开销的原因，GPT-3.5-turbo 的网站，要么有使用次数限制，要么需要“**用魔法”**才能打开。
+但由于国内政策和服务器开销的原因，GPT-3.5-turbo 的网站，要么有使用次数限制，要么需要“**魔法”**才能打开。
 
 
 
 下面介绍的集成应用，它们不但不会失效，并且没有使用限制。
 
-&nbsp;
-
-首先是 [LunaBot](https://lunabot.ai/)。
 
 
-它是一个浏览器扩展，也集成了 ChatGPT 3.5，可以在任何网页上使用 ChatGPT，免费用户也可以无限制使用。
+
+
+首先是 [ChatGPT Sidebar](https://chatgpt-sidebar.com/)
+
+
+
+它可以在任意网页中打开侧边栏，询问 ChatGPT 关于页面内容的任何事情，如解释、翻译、概括或重写。
+
+
+
+重要的是，扩展内置了 API，无需配置即可使用，免费用户有 **40** 次每天的额度。
+
+
+
+下载：[Chrome](https://chrome.google.com/webstore/detail/chatgpt-sidebar-support-g/difoiogjjojoaoomphldepapgpbgkhkb)、[Edge](https://microsoftedge.microsoft.com/addons/detail/sider-ai-sidebar/dhoenijjpgpeimemopealfcbiecgceod)、[本地下载](https://www.crxsoso.com/webstore/detail/difoiogjjojoaoomphldepapgpbgkhkb)
+
+
+
+![S31_ChatGPT_Sidebar](_Images/S31 - ChatGPT/S31_ChatGPT_Sidebar.png)
+
+
+
+其次是 [LunaBot](https://lunabot.ai/)。
+
+
+
+它也是一个浏览器扩展，集成了 ChatGPT 3.5，可以在任何网页上使用 ChatGPT，免费用户有 **20** 次每天的额度。
+
 
 
 地址：[Chrome](https://chrome.google.com/webstore/detail/jkeolmadidncndcbnajhaojepbolajag)、[Edge](https://microsoftedge.microsoft.com/addons/detail/pcilgakddbmfdpbpfbdjfjgaaiahogab)、[Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/lunabot-chatgpt-on-webpages/)、[本地下载](https://www.crxsoso.com/webstore/detail/jkeolmadidncndcbnajhaojepbolajag)
@@ -121,21 +197,25 @@ ChatGPT 最大的特点是能够回答你提出的各种问题，并根据我所
 
 
 
-&nbsp;
-
-其次是 [Cursor](https://www.cursor.so)。
+还有是 [Cursor](https://www.cursor.so)。
 
 
-原本它是一个编程类 AI 辅助工具，只会回答编程类话题，但如果“**新建一个没有后缀名的文件**”，打开聊天窗口。
 
-如果不行，那就新建一个后缀名为 **.md** 的文件。
+原本它是一个编程类 AI 辅助工具，只会回答编程类话题。
 
 
-**就会解除所有限制**。下载地址：[https://www.cursor.so](https://www.cursor.so)
+
+但只需要新建一个“**没有后缀名**”或者“**.md 后缀名**”的文件，打开聊天窗口，**就会解除所有限制**。
+
+
+
+下载：[https://www.cursor.so](https://www.cursor.so)
 
 
 
 ![S31_Cursor](https://gimg2.baidu.com/image_search/&app=2020&src=tvax1.sinaimg.cn/large/7a6a15d5gy1hcd7o4hqtqj228c1ecnm0.jpg)
+
+
 
 
 &nbsp;

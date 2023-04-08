@@ -65,17 +65,13 @@ API Key 地址：[https://platform.openai.com/account/api-keys](https://platform
 &nbsp;
 
 
-每 0.002 美元 1000 Tokens，
-
-每 100 万单词 18 元 RMB，
-
-每 100 万汉字  28.5 元 RMB，
-
-每 1 元 RMB 约 3.5 万个汉字 。
+每 0.002 美元 1000 Tokens，每 100 万单词 18 元人民币，
 
 
+每 100 万汉字  28.5 元人民币，每 1 元人民币约 3.5 万汉字 。
 
-GPT 4 的 Token 消耗，根据使用情况是 GPT3 的 15 倍 和 30 倍，而且必须是 **Plus** 付费用户。
+
+GPT 4 的 Token 消耗，根据使用情况，是 GPT3 的 15 倍 和 30 倍，而且必须是 **Plus** 付费用户。
 
 
 

@@ -108,24 +108,30 @@ OpenAI 正式开放了 **GPT-3.5-turbo** 的 API。
 
 
 
-| ▼ **免魔法网站**                                             | 说明                                                      |
-| ------------------------------------------------------------ | --------------------------------------------------------- |
-| 🌐 [https://chat20.yqcloud.top](https://chat20.yqcloud.top)   | 支持联网搜索                                              |
-| 🌐 [https://chat1.binjie.site:7777](https://chat1.binjie.site:7777) | 支持联网搜索、可换用 chat2、chat3、一直到 chat9           |
-| 🌐 [https://chat.aidutu.cn](https://chat.aidutu.cn)           | 靠广告回血、安装 Ublock 可过滤                            |
-| 🌐 [https://ai.bo-e.com](https://ai.bo-e.com)                 | 靠打赏回血、不想捐助要等 5 秒                             |
-| 🌐 [https://chat.lmsys.org](https://chat.lmsys.org)           | 130 亿参数的骆马（Vicuna）模型，能实现 ChatGPT 90% 的性能 |
-| 🌐 [https://greengpt.app](https://greengpt.app)               | 英文界面、支持多种模型、反应稍慢                          |
-| 🌐 [https://www.chat-crct.info](https://www.chat-crct.info)   | 反应稍慢                                                  |
-| 🌐 [https://hzdjs.cn/chatgpt](https://hzdjs.cn/chatgpt)       | 多个支持线路                                              |
-|                                |                                           |
-| ▼ **需魔法网站**                                             |                                                           |
-| 🌐 [https://qachat.cc](https://qachat.cc)                     | 无限制、需魔法                                            |
-| 🌐 [https://chat.theb.ai](https://chat.theb.ai)               | 无限制、需魔法                                            |
-| 🌐 [https://www.dcmgpt.com](https://www.dcmgpt.com)           | 无限制、需魔法                                            |
-| 🌐 [https://freegpt.one](https://freegpt.one)                 | 无限制、需魔法                                            |
-| 🌐 [https://94gpt.com](https://94gpt.com)                     | 无限制、需魔法                                            |
-| 🌐 [https://chatgptproxy.info](https://chatgptproxy.info)     | 无限制、需魔法                                            |
+
+| ▼ **免魔法网站**                                             | 说明                                      |
+| ------------------------------------------------------------ | ----------------------------------------- |
+| 🌐 [https://chat5.aichatos.com](https://chat5.aichatos.com)   | 如失效，可换用 chat2、chat3、一直到 chat9 |
+| 🌐 [https://chat.aidutu.cn](https://chat.aidutu.cn)           | 靠广告回血，安装 Ublock 可过滤            |
+| 🌐 [https://chat.extkj.cn](https://chat.extkj.cn)             | 靠广告回血，安装 Ublock 可过滤            |
+| 🌐 [https://mirrorchat.extkj.cn](https://mirrorchat.extkj.cn) | 上面那个网站的备用网站。                  |
+| 🌐 [http://www.tdchat.de](http://www.tdchat.de)               | TDChat 地址的发布页，可获取最新可用地址   |
+| 🌐 [https://www.chaosu.vip](https://www.chaosu.vip)           | 干净，清爽，反应快                        |
+| 🌐 [http://msai.fun/](http://msai.fun/)                       |                                           |
+| 🌐 [https://chat.xiami.one](https://chat.xiami.one)           |                                           |
+| 🌐 [https://b.mydog.buzz](https://b.mydog.buzz)               |                                           |
+| 🌐 [https://chat.muspimerol.site](https://chat.muspimerol.site) |                                           |
+| 🌐 [https://www.chatgptunli.com/chatgpt](https://www.chatgptunli.com/chatgpt) |                                           |
+| 🌐 [http://aigc2.gptnb.xyz/](http://aigc2.gptnb.xyz/)         |                                           |
+| 🌐 [https://2dog.51mskd.com/chat](https://2dog.51mskd.com/chat) |                                           |
+| 🌐 [https://chatgpt.peterdavehello.org](https://chatgpt.peterdavehello.org) |                                           |
+|                                                              |                                           |
+| ▼ **需魔法网站**                                             |                                           |
+| 🌐 [https://chat.theb.ai](https://chat.theb.ai)               | 无限制、需魔法                            |
+| 🌐 [https://freegpt.one](https://freegpt.one)                 | 无限制、需魔法                            |
+| 🌐 [https://94gpt.com](https://94gpt.com)                     | 无限制、需魔法                            |
+| 🌐 [https://chatgptproxy.info](https://chatgptproxy.info)     | 无限制、需魔法                            |
+|                                                              |                                           |
 
 &nbsp;
 

@@ -66,11 +66,11 @@ API Key，是众多 ChatGPT  应用的基础，不用 API，那它的作用将�
 查询 API Key：[https://aivesa.com/checkbilling](https://aivesa.com/checkbilling)
 
 
-
+&nbsp;
 **收费明细：**
 
 
-
+&nbsp;
 每 0.002 美元 1000 Tokens，每 100 万单词 18 元人民币，
 
 每 100 万汉字  28.5 元人民币，每 1 元人民币约 3.5 万汉字 。
@@ -78,9 +78,9 @@ API Key，是众多 ChatGPT  应用的基础，不用 API，那它的作用将�
 GPT 4 的 Token 消耗，根据使用情况，是 GPT3 的 15 倍 和 30 倍，而且必须是 **Plus** 付费用户。
 
 
-
+&nbsp;
 **Token 说明：**
-
+&nbsp;
 
 
 Token 指的是一段话中被分出来的词汇，比如：`i love you`，就是三个`token`，分别为 i、 love、you。
@@ -90,7 +90,7 @@ Token 指的是一段话中被分出来的词汇，比如：`i love you`，就�
 比如中文“**我爱你**”就是 11 个 Token。
 
 
-
+&nbsp;
 Token 计算地址：[https://platform.openai.com/tokenizer](https://platform.openai.com/tokenizer)
 
 
@@ -125,7 +125,7 @@ OpenAI 正式开放了 **GPT-3.5-turbo** 的 API。
 
 
 
-### 2.1、镜像网站
+### 2.1、GPT 3.5
 
 
 
@@ -170,7 +170,7 @@ OpenAI 正式开放了 **GPT-3.5-turbo** 的 API。
 
 
 ### 2.2、GPT 4.0
-
+&nbsp;
 
 
 #### [ChatmindAI](https://chatmindai.cn)
@@ -239,10 +239,10 @@ Ora.sh 是一个提供了多种定制化的聊天机器人，基于用户指定�
 
 
 
-
+&nbsp;
 
 ### 2.3、集成应用
-
+&nbsp;
 
 
 但由于国内政策和服务器开销的原因，GPT-3.5-turbo 的网站，要么有使用次数限制，要么需要“**魔法”**才能打开。

@@ -182,7 +182,7 @@ OpenAI 正式开放了 **GPT-3.5-turbo** 的 API。
 
 注册地址：[https://chatmindai.cn/#/login](https://chatmindai.cn/#/login)
 
-
+![A01_GPT4](https://image.baidu.com/search/down?url=https://tvax1.sinaimg.cn/large/7a6a15d5gy1hd7ag68mp6j228c1ece81.jpg)
 
 
 &nbsp;

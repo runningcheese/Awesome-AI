@@ -569,46 +569,6 @@ Poe 是问答社区 Quora 旗下的一款 AI 问答应用，目前完全免费�
 
 &nbsp;
 
-## **六、浏览器扩展**
-
-&nbsp;
-
-
-
-名称：[ChatGPT for Google](https://github.com/wong2/chat-gpt-google-extension)
-
-下载：[Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/chatgpt-for-google)、[Chrome](https://chrome.google.com/webstore/detail/jgjaeacdkonaoafenlfkkkmbaopkbilf)、[本地下载](https://www.crxsoso.com/webstore/detail/jgjaeacdkonaoafenlfkkkmbaopkbilf)、[脚本版](https://greasyfork.org/zh-CN/scripts/456077)
-
-简介：在搜索引擎里界面显示 ChatGPT 结果，需要填写 API Key。
-
-&nbsp;
-
-名称：[Merlin](https://merlin.foyer.work/onboarding/)
-
-下载：[Chrome](https://chrome.google.com/webstore/detail/merlin-openai-chatgpt-pow/camppjleccjaphfdbohjdohecfnoikec)、[Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/merlin-chatgpt-on-browser/)、[本地下载](https://www.crxsoso.com/webstore/detail/camppjleccjaphfdbohjdohecfnoikec)
-
-简介：免登陆，每天 11 次。
-
-&nbsp;
-
-
-名称：[ChatGPT-ToolBox](https://github.com/bigemon/ChatGPT-ToolBox)
-
-简介：保存 ChatGPT 生成对话的小工具，方法是通过“小书签”开启使用。
-
-&nbsp;
-
-名称：[ShareGPT](https://sharegpt.com/)
-
-简介：一键分享 ChatGPT 对话。
-
-&nbsp;
-
-名称：[WebChatGPT](https://github.com/qunash/chatgpt-advanced)
-
-简介：当 ChatGPT 没有结果时，显示 Google 搜索引擎的结果。
-
-
 
 
 
@@ -621,7 +581,7 @@ Poe 是问答社区 Quora 旗下的一款 AI 问答应用，目前完全免费�
 
 
 
-## 七、使用技巧
+## 六、使用技巧
 
 &nbsp;
 
@@ -631,7 +591,7 @@ Poe 是问答社区 Quora 旗下的一款 AI 问答应用，目前完全免费�
 
 
 &nbsp;
-### 7.1、英文技巧
+### 6.1、英文技巧
 
 &nbsp;
 
@@ -645,7 +605,7 @@ Poe 是问答社区 Quora 旗下的一款 AI 问答应用，目前完全免费�
 
 
 &nbsp;
-### 7.2、中文技巧
+### 6.2、中文技巧
 
 &nbsp;
 

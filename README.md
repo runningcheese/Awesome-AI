@@ -47,34 +47,55 @@ ChatGPT 是一个大型语言模型，由OpenAI训练而成，能够通过文本
 
 ### 1.2、API Key
 
-&nbsp;
-
-ChatGPT 的 API，是众多 AI 应用的基础，不用 API，它的作用将大减一半。
 
 
-
-**但它并不免费**，ChatGPT 送了注册用户 18 美元的额度，但不管你用不用，3 个月后 ChatGPT 都会收回。
+API Key，是众多 ChatGPT  应用的基础，不用 API，那它的作用将大减一半。
 
 
 
-API Key 地址：[https://platform.openai.com/account/api-keys](https://platform.openai.com/account/api-keys)
+**但它并不免费**，ChatGPT 送了注册用户 5 美元的额度，但不管你用不用，1 个月后 ChatGPT 都会收回。
 
 
-&nbsp;
+
+官方 API Key：[https://platform.openai.com/account/api-keys](https://platform.openai.com/account/api-keys)
+
+免费 API Key：[https://openai3.xyz](https://openai3.xyz)
+
+免费 API Key：[https://freeopenai.xyz](https://freeopenai.xyz)（需要魔法访问）
+
+查询 API Key：[https://aivesa.com/checkbilling](https://aivesa.com/checkbilling)
+
+
+
 **收费明细：**
-&nbsp;
+
 
 
 每 0.002 美元 1000 Tokens，每 100 万单词 18 元人民币，
 
-
 每 100 万汉字  28.5 元人民币，每 1 元人民币约 3.5 万汉字 。
-
 
 GPT 4 的 Token 消耗，根据使用情况，是 GPT3 的 15 倍 和 30 倍，而且必须是 **Plus** 付费用户。
 
 
 
+**Token 说明：**
+
+
+
+Token 指的是一段话中被分出来的词汇，比如：`i love you`，就是三个`token`，分别为 i、 love、you。
+
+而其它语言的 Token，需要先将它们转化 Unicode 后再算 Token。
+
+比如中文“**我爱你**”就是 11 个 Token。
+
+
+
+Token 计算地址：[https://platform.openai.com/tokenizer](https://platform.openai.com/tokenizer)
+
+
+
+
 
 
 
@@ -82,7 +103,7 @@ GPT 4 的 Token 消耗，根据使用情况，是 GPT3 的 15 倍 和 30 倍，�
 
 
 
-## 二、GPT 3.5 Turbo&nbsp; 🆕
+## 二、镜像网站 🆕
 
 &nbsp;
 
@@ -143,9 +164,86 @@ OpenAI 正式开放了 **GPT-3.5-turbo** 的 API。
 
 
 &nbsp;
-### 2.2、集成应用
 
-&nbsp;
+
+
+
+
+### 2.2、GPT 4.0
+
+
+
+#### [ChatmindAI](https://chatmindai.cn)
+
+
+
+国内站长开发的 ChatGPT 网站，无要魔法即可使用，而且 GPT-4 每天可以免费使用 3 次，使用时需要注册。
+
+
+
+注册地址：[https://chatmindai.cn/#/login](https://chatmindai.cn/#/login)
+
+
+
+
+
+#### **[Poe](http://poe.com)**
+
+
+
+Poe 是国外知识问答网站 Quora，基于多个**第三方大型语言模型训练**的 AI 聊天应用，顶部有多个机器人名称。
+
+
+
+注册用户，可每天免费 GPT4 一次，还有 Claude+ 三次。
+
+
+
+**Sage**：更擅长英语以外的语言。
+
+**Claude**：专注于英语，更擅长于创意写作任务。
+
+**Claude+**：优于 Claude，尤其是在非英语语言方面。
+
+**ChatGPT**：原版 ChatGPT
+
+**Dragonfly**：响应内容较短，因为它使用的是 **text-davinci-003** 模型。
+
+**GPT-4**：目前可用的最强大语言模型。
+
+
+
+
+
+#### **[Ora.sh](https://ora.sh/openai/gpt4)**
+
+
+
+Ora.sh 是一个提供了多种定制化的聊天机器人，基于用户指定的 prompt，可以创建用于不同场景的聊天机器人。
+
+
+
+在 Ora Explore 页面上有很多基 于GPT-3.5 的聊天机器人，并且不必登录便可以访问。
+
+
+
+同时，Ora.sh 也提供了GPT-4的试用。
+
+
+
+地址：https://ora.sh/openai/gpt4
+
+
+
+
+
+
+
+
+
+### 2.3、集成应用
+
+
 
 但由于国内政策和服务器开销的原因，GPT-3.5-turbo 的网站，要么有使用次数限制，要么需要“**魔法”**才能打开。
 
@@ -155,9 +253,8 @@ OpenAI 正式开放了 **GPT-3.5-turbo** 的 API。
 
 
 
+#### [ChatGPT Sidebar](https://chatgpt-sidebar.com/)
 
-&nbsp;
-首先是 [ChatGPT Sidebar](https://chatgpt-sidebar.com/)
 
 
 它可以在任意网页中打开侧边栏，询问 ChatGPT 关于页面内容的任何事情，如解释、翻译、概括或重写。
@@ -175,8 +272,8 @@ OpenAI 正式开放了 **GPT-3.5-turbo** 的 API。
 ![S31_ChatGPT_Sidebar](https://gimg2.baidu.com/image_search/&app=2020&src=tvax1.sinaimg.cn/large/7a6a15d5gy1hcs8oz8085j228c1ece81.jpg)
 
 
-&nbsp;
-其次是 [LunaBot](https://lunabot.ai/)。
+
+#### [LunaBot](https://lunabot.ai/)
 
 
 
@@ -190,9 +287,9 @@ OpenAI 正式开放了 **GPT-3.5-turbo** 的 API。
 
 ![S31_LunaBot](https://gimg2.baidu.com/image_search/&app=2020&src=tvax1.sinaimg.cn/large/7a6a15d5gy1hcd7quxmfrj228c1echdt.jpg)
 
-&nbsp;
 
-还有是 [Cursor](https://www.cursor.so)。
+
+#### [Cursor](https://www.cursor.so)
 
 
 
@@ -209,6 +306,12 @@ OpenAI 正式开放了 **GPT-3.5-turbo** 的 API。
 
 
 ![S31_Cursor](https://gimg2.baidu.com/image_search/&app=2020&src=tvax1.sinaimg.cn/large/7a6a15d5gy1hcd7o4hqtqj228c1ecnm0.jpg)
+
+
+
+
+
+
 
 
 
@@ -524,9 +627,6 @@ Poe 是问答社区 Quora 旗下的一款 AI 问答应用，目前完全免费�
 
 
 
-
-
-
 &nbsp;
 
 
@@ -568,204 +668,6 @@ Poe 是问答社区 Quora 旗下的一款 AI 问答应用，目前完全免费�
 
 
 
-
-## 八、撰写应用
-
-&nbsp;
-
-### 8.1、[Teach Anything](https://www.teach-anything.com/)
-
-&nbsp;
-
-一款基于 **OpenAI GPT-3**  API 的智能在线问答工具程序，支持中英文多国语言，分为简易和专业两种模式。
-
-
-
-特性：而且开源，再加上使用的是 Vercel 服务器，也就是说你可以不限次数使用。👍
-
-
-
-![i31_TechAnything](https://gcore.jsdelivr.net/gh/runningcheese/Blog/Inbox/S31_TechAnything.png)
-
-&nbsp;
-
-### 8.2、[MagickPen](https://magickpen.com)
-
-&nbsp;
-
-简介：是 Teach Anything 的专业版本，支持写作、翻译、语法和代码，算得上是**目前 ChatGPT 的最佳平替**。👍
-
-
-
-特性：你可以自定义“**使用场景**”，让你得到的内容更加自然，但默认每天只有 **10** 免费学分额度。
-
-
-
-![S31_MagicPen](https://gcore.jsdelivr.net/gh/runningcheese/Blog/Inbox/S31_MagicPen.png)
-
-
-
-不过，我发现一个“**BUG**”了。
-
-
-
-当你清除网站的 **Cookies** 时，学分额度就会恢复到 **10**，也就是说你可以不限次数地“**白票**”。（PS：请合理使用）
-
-
-
-![S31_MagicPen2](https://gcore.jsdelivr.net/gh/runningcheese/Blog/Inbox/S31_MagicPen2.png)
-
-
-
-
-
-
-
-### 8.3、[Notion AI](https://www.notion.so/product/ai)
-
-&nbsp;
-
-**Notion AI** 是一款写作 AI 工具，支持撰写、头脑风暴、编辑和总结等操作。
-
-
-
-只需告诉应用程序你要写什么，如博客文章、社交媒体帖子、新闻稿或职位描述，即可轻松实现。
-
-
-
-目前，Notion AI 已经面向所有用户开放，免费用户可以每天试用 30 次。
-
-
-
-![S31_Notion3](https://cdn.jsdelivr.ren/gh/runningcheese/Blog@main/Inbox/S31_Notion3.png)
-
-
-
-&nbsp;
-
-### 6.4、[FlowUs AI](https://flowus.cn/product)
-
-&nbsp;
-
-FlowUs AI 的模型与 Notion 一样。
-
-
-
-目前主要包括头脑风暴、列大纲、续写、润色、总结、翻译等功能，功能更偏向于中文，但目前还在内测阶段。
-
-
-
-
-
-
-
-&nbsp;
-## 九、ChatGPT 应用
-&nbsp;
-&nbsp;
-
-
-
-### [OpenGPT](https://open-gpt.app/)
-
-
-
-网站不但收集了海量 ChatGPT 应用集合，你还可以几秒钟内创建属于自己的应用。
-
-
-
-
-
-### [ChatPDF](https://www.chatpdf.com/)
-
-
-
-基于 ChatGPT 构建的 PDF 神器，它可以提取 PDF 文件中的内容，并将内容交给 ChatGPT 进行分析。
-
-类似于 Edge 浏览器的侧边栏，免费版最多支持 50 页。
-
-
-
-
-
-### [Openai Translator](https://github.com/yetone/openai-translator)
-
-
-
-基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用，添加 ChatGPT 的 API 即可使用。
-目前还在扩展商店审核中，需要以开发者模式安装。
-
-
-
-
-
-### [ChatExcel](https://chatexcel.com/)
-
-
-
-由北大团队出品的 ChatExcel AI 工具，在聊天框内输入对于表格的整理需求表格就会自动处理。
-
-目前免费无限制使用，但测试了一下，并没有那么智能。
-
-
-
-
-
-### [editGPT](https://www.editgpt.app/)
-
-
-
-AI 论文写作校对润色神器，是 Grammarly 的最大对手。
-
-在线演示：[https://www.editgpt.app/examples/proofread-your-essay](https://www.editgpt.app/examples/proofread-your-essay)
-
-
-
-
-
-### [Adrenaline](https://useadrenaline.com/)
-
-
-
-把代码贴进去自动找 bug，这个 debug 神器自动修复仅需几秒。
-
-该工具由 OpenAI Codex 提供支持，Codex 是 OpenAI 与 GitHub 联合发布的 AI 代码补全工具。
-
-使用前需要填写 OpenAI API 密钥。
-
-
-
-
-
-### [Glarity](https://glarity.app/)
-
-
-
-通过 ChatGPT 为谷歌搜索、YouTube 视频等网站内容生成摘要，只要有字幕的就可以总结，支持所有语言。
-
-
-
-
-
-### [BibiGPT](https://b.jimmylv.cn/)
-
-
-
-智能提取并总结字幕，可以自动总结 B站 视频的内容。
-
-
-
-
-
-### [风声雨声](https://fsys.app/)
-
-
-
-基于 gpt-3.5 的翻译服务，可以将一整本电子书翻译为双语，是外语书籍阅读的好帮手，但它是一个付费项目。
-
-价格大概每 10 万字 10 元人民币。
-
-&nbsp;
 
 
 

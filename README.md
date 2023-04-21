@@ -174,7 +174,6 @@ OpenAI 正式开放了 **GPT-3.5-turbo** 的 API。
 
 
 #### [ChatmindAI](https://chatmindai.cn)
-&nbsp;
 
 
 国内站长开发的 ChatGPT 网站，无要魔法即可使用，而且 GPT-4 每天可以免费使用 3 次，使用时需要注册。
@@ -188,8 +187,6 @@ OpenAI 正式开放了 **GPT-3.5-turbo** 的 API。
 
 &nbsp;
 #### **[Poe](http://poe.com)**
-&nbsp;
-
 
 Poe 是国外知识问答网站 Quora，基于多个**第三方大型语言模型训练**的 AI 聊天应用，顶部有多个机器人名称。
 
@@ -211,8 +208,6 @@ Poe 是国外知识问答网站 Quora，基于多个**第三方大型语言模�
 
 &nbsp;
 #### **[Ora.sh](https://ora.sh/openai/gpt4)**
-&nbsp;
-
 
 Ora.sh 是一个提供了多种定制化的聊天机器人，基于用户指定的 prompt，可以创建用于不同场景的聊天机器人。
 

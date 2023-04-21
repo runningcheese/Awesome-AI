@@ -464,23 +464,11 @@ YouChat 是国外搜索引擎 You.com，基于 GPT 开发的 AI 聊天 应用，
 
 &nbsp;
 
-## **四、桌面应用（New）**
+## **四、桌面应用**
 
 
 
-
-&nbsp;
-### 4.1、[Chatbox](https://github.com/Bin-Huang/chatbox)
-
-
-
-&nbsp;
-
-由于 ChatGPT 网页版缓慢，所以，基于 API 的 ChatGPT 桌面客户端 **Chatbox** 诞生了。
-
-
-
-只需要设置好 API。
+由于 ChatGPT 网页版缓慢，所以基于 API 的 ChatGPT 桌面客户端诞生了，可以让你快速稳定地使用 ChatGPT。
 
 
 
@@ -488,29 +476,71 @@ API 获取地址：[https://platform.openai.com/account/api-keys](https://platfo
 
 
 
-就可以快速、稳定地使用 ChatGPT，让你可以白票完这免费的 18 美元，而且还能保存聊天记录和 prompt 提示。
+
+
+
+&nbsp;
+### 4.1、OneGPT
+
+
+
+GPT 聚合版，聚合了 ChatGPT、文心一言、通义千问、POE、Bard、New  Bing 等多个平台的客户端。
+
+
+
+支持 Windows、macOS 和 Linux。
+
+
+
+而且，软件还有内置了免费的 ChatGPT，不过有每日限额，你可以使用自己的 API Key。
+
+
+
+地址：[https://github.com/1595901624/gpt-aggregated-edition](https://github.com/1595901624/gpt-aggregated-edition)
+
+
+
+&nbsp;
+
+### 4.2、[Chatbox](https://github.com/Bin-Huang/chatbox)
+
+
+
+Chatbox，一款开源跨平台的 ChatGPT 客户端，Prompt 的调试与管理工具，支持 Windows、Mac 和 Linux。
+
+
+
+下载地址：[https://github.com/Bin-Huang/chatbox/releases](https://github.com/Bin-Huang/chatbox/releases)
+
+Windows 本地下载：[地址](https://ghproxy.com/https://github.com/Bin-Huang/chatbox/releases/download/Chatbox-v0.2.8/chatbox_0.2.8_x64_en-US.msi)
+
+Mac 本地下载：[地址](https://ghproxy.com/https://github.com/Bin-Huang/chatbox/releases/download/Chatbox-v0.2.8/chatbox_0.2.8_x64.dmg)
+
 
 
 ![S31_ChatBox](https://gcore.jsdelivr.net/gh/runningcheese/Awesome-ChatGPT/Images/S31_ChatBox.png)
 
-
-下载地址：
-
-[https://github.com/Bin-Huang/chatbox/releases](https://github.com/Bin-Huang/chatbox/releases)
-
-
-Windows 快速下载：[地址](https://ghproxy.com/https://github.com/Bin-Huang/chatbox/releases/download/Chatbox-v0.2.8/chatbox_0.2.8_x64_en-US.msi)
-
-Mac 快速下载：[地址](https://ghproxy.com/https://github.com/Bin-Huang/chatbox/releases/download/Chatbox-v0.2.8/chatbox_0.2.8_x64.dmg)
 
 
 
 
 
 &nbsp;
+### 4.3、[OpenCat](https://apps.apple.com/app/opencat/id6445999201)
 
-### 4.2、[ChatGPT Desktop](https://github.com/lencx/ChatGPT)
 
+
+上线 Mac App Store 的 ChatGPT 桌面客户端，和 ChatBox 一样，输入 API 密钥后即可使用，只支持 Mac 平台。
+
+
+
+此外，它还有 iOS 客户端。
+
+
+
+&nbsp;
+
+### 4.4、[ChatGPT Desktop](https://github.com/lencx/ChatGPT)
 
 
 简单地将 ChatGPT 网页版打包为桌面版，支持 Mac、Windows、Linux 三个平台。

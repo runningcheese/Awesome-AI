@@ -67,6 +67,7 @@ API Key，是众多 ChatGPT  应用的基础，不用 API，那它的作用将�
 
 
 &nbsp;
+
 **收费明细：**
 
 
@@ -77,8 +78,8 @@ API Key，是众多 ChatGPT  应用的基础，不用 API，那它的作用将�
 
 GPT 4 的 Token 消耗，根据使用情况，是 GPT3 的 15 倍 和 30 倍，而且必须是 **Plus** 付费用户。
 
-
 &nbsp;
+
 **Token 说明：**
 &nbsp;
 

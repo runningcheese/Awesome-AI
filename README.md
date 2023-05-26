@@ -9,7 +9,7 @@
 
 ChatGPT 是一个大型语言模型，由OpenAI训练而成，能够通过文本与人进行交流，目前为止自然语言的天花板。
 
-本文持续更新，并且会尽量日更！
+本文持续更新，并且会坚持日更！
 
 
 
@@ -28,7 +28,6 @@ ChatGPT 是一个大型语言模型，由OpenAI训练而成，能够通过文本
 
 ChatGPT 网页可以免费使用，但未对大陆开放，访问时需要魔法（**香港节点不可用**），注册时需要境外手机号。
 
-&nbsp;
 
 官网：[https://chat.openai.com](https://chat.openai.com)
 
@@ -487,13 +486,13 @@ GPT4free 是一个由欧洲计算机系学生开发的项目，项目聚合了�
 
 &nbsp;
 
-## 三、类似应用
+## 四、类似应用
 
 
 
 &nbsp;
 
-### 3.1、[New Bing](https://bing.com/new)
+### 4.1、[New Bing](https://bing.com/new)
 
 &nbsp;
 
@@ -506,10 +505,6 @@ GPT4free 是一个由欧洲计算机系学生开发的项目，项目聚合了�
 
 
 Edge 浏览器集成的 **Chat** 侧边栏，更是阅读本地文档的利器。
-
-
-
-![S31_Bing2](https://gimg2.baidu.com/image_search/&app=2020&src=tvax1.sinaimg.cn/large/7a6a15d5gy1hcd7qvujyrj22bs1eq4qq.jpg)
 
 
 &nbsp;
@@ -533,9 +528,8 @@ Edge 浏览器集成的 **Chat** 侧边栏，更是阅读本地文档的利器�
 
 
 
-
 &nbsp;
-### 3.2、[文心一言](https://yiyan.baidu.com)
+### 4.2、[文心一言](https://yiyan.baidu.com)
 
 
 
@@ -545,7 +539,7 @@ Edge 浏览器集成的 **Chat** 侧边栏，更是阅读本地文档的利器�
 
 
 &nbsp;
-### 3.3、[Bard](https://bard.google.com/)
+### 4.3、[Bard](https://bard.google.com/)
 
 
 
@@ -555,7 +549,7 @@ Edge 浏览器集成的 **Chat** 侧边栏，更是阅读本地文档的利器�
 
 
 &nbsp;
-### 3.4、[ChatSonic](https://writesonic.com/chat)
+### 4.4、[ChatSonic](https://writesonic.com/chat)
 
 &nbsp;
 
@@ -575,15 +569,10 @@ Edge 浏览器集成的 **Chat** 侧边栏，更是阅读本地文档的利器�
 
 
 
-![S31_ChatSonic](https://gimg2.baidu.com/image_search/&app=2020&src=tvax1.sinaimg.cn/large/7a6a15d5gy1hcd7qwe33tj228c1ec4nm.jpg)
-
-
-
-
 
 &nbsp;
 
-### 3.5、[Poe](https://poe.com/sage)
+### 4.5、[Poe](https://poe.com/sage)
 &nbsp;
 
 
@@ -608,38 +597,23 @@ Poe 是国外知识问答网站 Quora，基于多个**第三方大型语言模�
 PS：需要**使用魔法**访问，如出现 message timeout 的情况，刷新即可。
 
 
-
-![S31_Poe](https://gimg2.baidu.com/image_search/&app=2020&src=tvax1.sinaimg.cn/large/7a6a15d5gy1hcd7qwwwdpj228c1ec1kx.jpg)
-
-
-
 &nbsp;
 
-### 3.6、[YouChat](https://you.com)
+### 4.6、[YouChat](https://you.com)
 
 &nbsp;
 
 YouChat 是国外搜索引擎 You.com，基于 GPT 开发的 AI 聊天 应用，但目前似乎并没有融合进“**搜索**”功能。
 
 
-
 只是单纯的类 ChatGPT 应用，而且国内访问**需要魔法**。
 
 
 
-![S31_YouChat](https://gimg2.baidu.com/image_search/&app=2020&src=tvax1.sinaimg.cn/large/7a6a15d5gy1hcd7qxikahj228c1ece81.jpg)
-
-
-
-
-
 
 &nbsp;
 
-
-&nbsp;
-
-## **四、桌面应用**
+## **五、桌面应用**
 
 
 
@@ -655,7 +629,7 @@ API 获取地址：[https://platform.openai.com/account/api-keys](https://platfo
 
 
 &nbsp;
-### 4.1、OneGPT
+### 5.1、OneGPT
 
 
 
@@ -677,7 +651,7 @@ GPT 聚合版，聚合了 ChatGPT、文心一言、通义千问、POE、Bard、N
 
 &nbsp;
 
-### 4.2、[Chatbox](https://github.com/Bin-Huang/chatbox)
+### 5.2、[Chatbox](https://github.com/Bin-Huang/chatbox)
 
 
 
@@ -701,7 +675,7 @@ Mac 本地下载：[地址](https://ghproxy.com/https://github.com/Bin-Huang/cha
 
 
 &nbsp;
-### 4.3、[OpenCat](https://apps.apple.com/app/opencat/id6445999201)
+### 5.3、[OpenCat](https://apps.apple.com/app/opencat/id6445999201)
 
 
 
@@ -715,7 +689,7 @@ Mac 本地下载：[地址](https://ghproxy.com/https://github.com/Bin-Huang/cha
 
 &nbsp;
 
-### 4.4、[ChatGPT Desktop](https://github.com/lencx/ChatGPT)
+### 5.4、[ChatGPT Desktop](https://github.com/lencx/ChatGPT)
 
 
 简单地将 ChatGPT 网页版打包为桌面版，支持 Mac、Windows、Linux 三个平台。
@@ -726,13 +700,13 @@ Mac 本地下载：[地址](https://ghproxy.com/https://github.com/Bin-Huang/cha
 
 
 
-## 五、手机应用
+## 六、手机应用
 
 &nbsp;
 
 
 
-### 5.1、[NewBing APP](https://apps.apple.com/us/app/microsoft-bing-search/id345323231?uo=4&at=11l6hc&app=itunes&ct=fnd)
+### 6.1、[NewBing APP](https://apps.apple.com/us/app/microsoft-bing-search/id345323231?uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 
 
@@ -742,7 +716,7 @@ Mac 本地下载：[地址](https://ghproxy.com/https://github.com/Bin-Huang/cha
 
 
 
-### 5.2、[Poe](https://poe.com/)
+### 6.2、[Poe](https://poe.com/)
 
 
 
@@ -752,7 +726,7 @@ Poe 是问答社区 Quora 旗下的一款 AI 问答应用，目前完全免费�
 
 
 
-### 5.3、[ChatGPT 在线](https://miui.lanzoum.com/iSZGU0qosssf)
+### 6.3、[ChatGPT 在线](https://miui.lanzoum.com/iSZGU0qosssf)
 
 
 
@@ -786,7 +760,7 @@ Poe 是问答社区 Quora 旗下的一款 AI 问答应用，目前完全免费�
 
 
 
-## 六、使用技巧
+## 七、使用技巧
 
 &nbsp;
 
@@ -796,7 +770,7 @@ Poe 是问答社区 Quora 旗下的一款 AI 问答应用，目前完全免费�
 
 
 &nbsp;
-### 6.1、英文技巧
+### 7.1、英文技巧
 
 &nbsp;
 
@@ -810,7 +784,7 @@ Poe 是问答社区 Quora 旗下的一款 AI 问答应用，目前完全免费�
 
 
 &nbsp;
-### 6.2、中文技巧
+### 7.2、中文技巧
 
 &nbsp;
 

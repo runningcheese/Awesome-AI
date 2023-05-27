@@ -73,7 +73,7 @@ ChatGPT 还有另外一种形式：**API Key**。
 **但 API Key 并不免费**，ChatGPT 会赠送注册用户 **5** 美元的额度，但不管你用不用，1 个月后都会被清零收回。
 
 
-
+<br/>
 官方 API Key 查询：[https://platform.openai.com/account/api-keys](https://platform.openai.com/account/api-keys)
 
 查询 API Key 余量：[https://aivesa.com/checkbilling](https://aivesa.com/checkbilling)

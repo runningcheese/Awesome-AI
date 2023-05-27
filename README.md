@@ -1,15 +1,11 @@
-# Awesome-ChatGPT
-&nbsp;
 
 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/runningcheese/Awesome-ChatGPT/assets/A01%20-%20ChatGPT/Awesomegpt_Logo2.png" width="148" height="168"/>
+</p>
+<h1 align="center">Awesome-ChatGPT</h1>
 
-**ChatGPT 是什么？**
-
-
-
-ChatGPT 是一个大型语言模型，由OpenAI训练而成，能够通过文本与人进行交流，目前为止自然语言的天花板。
-
-本文持续更新，并且会坚持日更！
+打造切实有用《人工智能指南》，你的《人工智能指南》，奶酪出品，开源免费，持续更新，保持日更！
 
 
 

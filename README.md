@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/runningcheese/Awesome-ChatGPT/assets/A01%20-%20ChatGPT/Awesomegpt_Logo2.png" width="148" height="168"/>
+  <img src="https://cdn.jsdelivr.net/gh/runningcheese/Awesome-ChatGPT/assets/A01%20-%20ChatGPT/Awesomegpt_Logo2.png" width="148" height="148"/>
 </p>
 <h1 align="center">Awesome-ChatGPT</h1>
 

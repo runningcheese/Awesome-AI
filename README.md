@@ -18,6 +18,8 @@ ChatGPT 是一个大型语言模型，由OpenAI训练而成，能够通过文本
 &nbsp;
 
 
+
+
 ##  一、官方网站
 
 
@@ -27,6 +29,7 @@ ChatGPT 是一个大型语言模型，由OpenAI训练而成，能够通过文本
 
 
 ChatGPT 网页可以免费使用，但未对大陆开放，访问时需要魔法（**香港节点不可用**），注册时需要境外手机号。
+
 
 
 官网：[https://chat.openai.com](https://chat.openai.com)
@@ -179,11 +182,10 @@ OpenAI 开放了 **GPT-3.5-turbo** 的 API。
 | 🌐 [https://chat.jubianxingqiu.com](https://chat.jubianxingqiu.com) | 简单好用，                                    |
 | 🌐 [https://chat.jinshutuan.com](https://chat.jinshutuan.com) | 简单好用，                                    |
 | 🌐 [https://chat4.aichatos.xyz](https://chat4.aichatos.xyz)   | 简单好用，                                    |
+| 🌐 [https://chat.waixingyun.cn](https://chat.waixingyun.cn)   | 简单好用，                                    |
 | 🌐 [https://chat.extkj.cn](https://chat.extkj.cn)             | 简单好用，                                    |
 | 🌐 [https://mirrorchat.extkj.cn](https://mirrorchat.extkj.cn) | 简单好用，上面网站的备用网站。                |
 | 🌐 [https://2dog.51mskd.com/chat](https://2dog.51mskd.com/chat) | 简单好用，自带了一些现成的模版。              |
-| 🌐 [https://chat.waixingyun.cn](https://chat.waixingyun.cn)   | 简单好用，                                    |
-| 🌐 [https://chat.extkj.cn](https://chat.extkj.cn)             | 简单好用，                                    |
 | 🌐 [http://chat.newstop.asia/#/chat](http://chat.newstop.asia/#/chat) | 简单好用，但会屏蔽敏感内容。                  |
 
 
@@ -201,12 +203,12 @@ OpenAI 开放了 **GPT-3.5-turbo** 的 API。
 | ▼ **需要魔法**                                               | **简介**                             |
 | ------------------------------------------------------------ | ------------------------------------ |
 | 🌐 [https://chat-shared.zhile.io/shared.html](https://chat-shared.zhile.io/shared.html) 👍 | 无限制、需魔法，免费畅爽使用 ChatGPT |
-| 🌐 [https://chat.theb.ai](https://chat.theb.ai)               | 无限制、需魔法                       |
+| 🌐 [https://chat.theb.ai](https://chat.theb.ai) 👍             | 无限制、需魔法                       |
 | 🌐 [https://freegpt.one](https://freegpt.one)                 | 无限制、需魔法                       |
 | 🌐 [https://freegpt.top](https://freegpt.top)                 | 无限制、需魔法                       |
 | 🌐 [https://chatgptproxy.info](https://chatgptproxy.info)     | 无限制、需魔法                       |
-| 🌐 [ChatGPT Sites](https://lzw.me/x/chatgpt-sites/)           | 更多镜像网站.                        |
-| 🌐 [Free ChatGPT Site List](https://github.com/xx025/carrot)  | 更多镜像网站.                        |
+| 🌐 [ChatGPT Sites](https://lzw.me/x/chatgpt-sites/)           | 更多镜像网站                         |
+| 🌐 [Free ChatGPT Site List](https://github.com/xx025/carrot)  | 更多镜像网站                         |
 
 
 
@@ -270,7 +272,7 @@ OpenAI 开放了 **GPT-3.5-turbo** 的 API。
 
 
 
-地址：[https://chatmindai.aabiji.com](https://chatmindai.aabiji.com) [[🔍](https://cdn.jsdelivr.net/gh/runningcheese/Awesome-ChatGPT/assets/A01%20-%20ChatGPT/A01_ChatmindAI.png)]
+地址：[https://chatmindai.aabiji.com](https://chatmindai.aabiji.com) [[🔍](https://cdn.jsdelivr.net/gh/runningcheese/Awesome-ChatGPT/assets/A01 - ChatGPT/A01_ChatmindAI.png)]
 
 
 
@@ -292,7 +294,7 @@ Forefront Chat 是国外最近上线的一款在线机器人聊天网站，其�
 
 
 
-地址：[https://chat.forefront.ai](https://chat.forefront.ai)  [[🔍](https://cdn.jsdelivr.net/gh/runningcheese/Awesome-ChatGPT/assets/A01%20-%20ChatGPT/A01_ForeFont.png)]
+地址：[https://chat.forefront.ai](https://chat.forefront.ai)  [[🔍](https://cdn.jsdelivr.net/gh/runningcheese/Awesome-ChatGPT/assets/A01 - ChatGPT/A01_ForeFont.png)]
 
 
 
@@ -306,7 +308,11 @@ Poe 是国外知识问答网站 Quora，基于多个**第三方大型语言模�
 
 
 
-注册用户，可每天免费 **GPT-4 一次**，还有 **Claude+ 三次**。
+注册用户可每天免费 **GPT-4 一次**，还有 **Claude+ 三次**。
+
+
+
+值得一说的是，Poe 支持国内双币种信用卡。
 
 
 
@@ -323,6 +329,8 @@ Poe 是国外知识问答网站 Quora，基于多个**第三方大型语言模�
 **GPT-4**：目前可用的最强大语言模型。
 
 
+
+地址：[https://poe.com](https://poe.com)
 
 
 
@@ -344,7 +352,7 @@ Ora.sh 是一个提供了多种定制化的聊天机器人，基于用户指定�
 
 
 
-地址：https://ora.sh/openai/gpt4  [[🔍](https://cdn.jsdelivr.net/gh/runningcheese/Awesome-ChatGPT/assets/A01%20-%20ChatGPT/A01_Ora.sh.png)]
+地址：https://ora.sh/openai/gpt4  [[🔍](https://cdn.jsdelivr.net/gh/runningcheese/Awesome-ChatGPT/assets/A01 - ChatGPT/A01_Ora.sh.png)]
 
 
 
@@ -356,7 +364,7 @@ Ora.sh 是一个提供了多种定制化的聊天机器人，基于用户指定�
 
 
 
-GPT4free 是一个由欧洲计算机系学生开发的项目，项目聚合了众多第三方 ChatGPT 应用的免费 GPT-4 接口。
+[GPT4free](https://github.com/xtekky/gpt4free) 是一个由欧洲计算机系学生开发的项目，项目聚合了众多第三方 ChatGPT 应用的免费 GPT-4 接口。
 
 
 
@@ -368,7 +376,7 @@ GPT4free 是一个由欧洲计算机系学生开发的项目，项目聚合了�
 
 
 
-![A01_Freegpt4](https://cdn.jsdelivr.net/gh/runningcheese/Awesome-ChatGPT/assets/A01%20-%20ChatGPT/A01_Freegpt4.png)
+![A01_Freegpt4](https://cdn.jsdelivr.net/gh/runningcheese/Awesome-ChatGPT/assets/A01 - ChatGPT/A01_Freegpt4.png)
 
 
 
@@ -380,7 +388,7 @@ GPT4free 是一个由欧洲计算机系学生开发的项目，项目聚合了�
 
 
 
-![A01_Freegpt42](https://cdn.jsdelivr.net/gh/runningcheese/Awesome-ChatGPT/assets/A01%20-%20ChatGPT/A01_Freegpt42.png)
+![A01_Freegpt42](https://cdn.jsdelivr.net/gh/runningcheese/Awesome-ChatGPT/assets/A01 - ChatGPT/A01_Freegpt42.png)
 
 
 
@@ -400,7 +408,7 @@ GPT4free 是一个由欧洲计算机系学生开发的项目，项目聚合了�
 
 
 
-![A01_Freegpt42](https://cdn.jsdelivr.net/gh/runningcheese/Awesome-ChatGPT/assets/A01%20-%20ChatGPT/A01_Freegpt43.png)
+![A01_Freegpt42](https://cdn.jsdelivr.net/gh/runningcheese/Awesome-ChatGPT/assets/A01 - ChatGPT/A01_Freegpt43.png)
 
 
 
@@ -408,7 +416,7 @@ GPT4free 是一个由欧洲计算机系学生开发的项目，项目聚合了�
 
 
 
-会根据你问的内容来决定，简单的问题几秒就能给出答案，而如果要 **1000** 字时，花费的时间可能会超过 **1 分钟**。
+会根据你问的内容来决定，简单的问题几秒就能给出答案，如果要 **1000** 字时，花费的时间可能会超过 **1 分多钟**。
 
 
 
@@ -436,11 +444,11 @@ GPT4free 是一个由欧洲计算机系学生开发的项目，项目聚合了�
 
 
 
-如已加入则可跳过。
+**如已加入则可跳过。**
 
 
 
-![A01_Freegpt42](https://cdn.jsdelivr.net/gh/runningcheese/Awesome-ChatGPT/assets/A01%20-%20ChatGPT/A01_Freegpt42.png)
+![A01_Freegpt42](https://cdn.jsdelivr.net/gh/runningcheese/Awesome-ChatGPT/assets/A01 - ChatGPT/A01_Freegpt42.png)
 
 
 
@@ -448,7 +456,7 @@ GPT4free 是一个由欧洲计算机系学生开发的项目，项目聚合了�
 
 
 
-![A01_Poe_Token](https://cdn.jsdelivr.net/gh/runningcheese/Awesome-ChatGPT/assets/A01%20-%20ChatGPT/A01_Poe_Token.png)
+![A01_Poe_Token](https://cdn.jsdelivr.net/gh/runningcheese/Awesome-ChatGPT/assets/A01 - ChatGPT/A01_Poe_Token.png)
 
 
 
@@ -460,7 +468,7 @@ GPT4free 是一个由欧洲计算机系学生开发的项目，项目聚合了�
 
 
 
-![A01_Poe_Token2](https://cdn.jsdelivr.net/gh/runningcheese/Awesome-ChatGPT/assets/A01%20-%20ChatGPT/A01_Poe_Token2.png)
+![A01_Poe_Token2](https://cdn.jsdelivr.net/gh/runningcheese/Awesome-ChatGPT/assets/A01 - ChatGPT/A01_Poe_Token2.png)
 
 
 
@@ -468,7 +476,7 @@ GPT4free 是一个由欧洲计算机系学生开发的项目，项目聚合了�
 
 
 
-![A01_Poe_Token3](https://cdn.jsdelivr.net/gh/runningcheese/Awesome-ChatGPT/assets/A01%20-%20ChatGPT/A01_Poe_Token3.png)
+![A01_Poe_Token3](https://cdn.jsdelivr.net/gh/runningcheese/Awesome-ChatGPT/assets/A01 - ChatGPT/A01_Poe_Token3.png)
 
 
 
@@ -484,156 +492,203 @@ GPT4free 是一个由欧洲计算机系学生开发的项目，项目聚合了�
 
 
 
+
+
+[🔍]
+
+
+
+## 四、网页应用
+
+
+
+原版 ChatGPT 不仅有访问上的限制，而且**没有辅助功能**，于是网友开发了各种“**增强版**” 的 ChatGPT 网页应用。
+
+
+
+注意，大多数情况下，下面的应用都需要先填写 **API Key**。
+
+
+
+免费 API Key 可参考本文章节 **1.3** 。
+
+
+
+
+
+### 4.1、TypingMind
+
+
+
+TypingMind 是国外一名的网友，他实在不喜欢 ChatGPT 打字慢，还有频繁登录，于是开发了增强版 ChatGPT 。 
+
+
+
+本质上，它是一个基于 **ChatGPT API** 的应用，但它有更好的用户界面和功能。
+
+
+
+包括**聊天搜索、提示词库、网络搜索、上传文档**等功能。
+
+
+
+地址：[https://www.typingmind.com](https://www.typingmind.com) [[🔍](assets/A01 - ChatGPT/A01_TypingMind.png)]
+
+
+
+
+
+### 4.2、ChatKit
+
+
+
+ChatKit 是另一款基于 OpenAI API 的增强版 ChatGPT。
+
+
+
+它拥有 TypingMind 的所有功能，除了可以**上传文档**来聊天，它还可以输入**网页 URL** 来做为上下文素材。
+
+
+
+地址：[https://chatkit.app](https://chatkit.app)  [[🔍](assets/A01 - ChatGPT/A01_ChatkitAPP.png)]
+
+
+
+
+
+### 4.3、Chatbot UI
+
+
+
+上面两个并没有开源，而 **Chatbot UI** 填补了这一空缺。
+
+
+
+同样，Chatbot UI 也是基于 ChatGPT API 的网页应用，界面与原版很像，可自定义提示词，支持数据导入导出。
+
+
+
+地址：[https://ai.qiaomu.pro/zh](https://ai.qiaomu.pro/zh) [[🔍](assets/A01 - ChatGPT/A01_ChatbotUI.png)]
+
+开源：[https://github.com/mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)
+
+
+
+
+
+### 4.4、Chat Chat
+
+
+
+Chat Chat 是另一款开源 ChatGPT API 网页应用。
+
+
+
+支持的功能十分丰富，包括 语音朗读、文件聊天、网页搜索、对话分享、提示词库、Markdown 格式等功能。
+
+
+
+地址：[https://chat.okisdev.com/zh-CN](https://chat.okisdev.com/zh-CN) [[🔍](assets/A01 - ChatGPT/A01_ChatChat.png)]
+
+
+
+
+
+### 4.5、MyGPT
+
+
+
+MyGPT 也是一款基于 ChatGPT 的第三方 ChatGPT 网页应用，它的独特之处在于支持 ChatGPT 的插件功能。
+
+
+
+而且，还内置了提示词库，支持聊天记录和搜索等功能。
+
+
+
+遗憾的是，网站默认使用英文，而它自带的“**谷歌翻译**”，效果不是很理想。
+
+
+
+地址：[https://thesamur.ai/mygpt](https://thesamur.ai/mygpt)  [[🔍](assets/A01 - ChatGPT/A01_MyGPT2.png)]
+
+
+
+
+
+
+
+### 4.6、自建 ChatGPT
+
+
+
+
+
+如果你想利用 ChatGPT  API 自建 ChatGTP 网页，以供别人使用，下面这些开源的项目，都是不错的选择。
+
+
+
+- [ChatGPT Web](https://github.com/Chanzhaoyu/chatgpt-web) - [[演示网站](https://chat5.aichatos.com)]，第三方镜像网站最常用的项目。
+- [ChatGpt-Web](https://github.com/79E/ChatGpt-Web) - [[演示网站](https://www.aizj.top)]，使用 React 搭建，还支持绘画。
+- [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - [[演示网站](https://chat-gpt-next-web.vercel.app/)]，奶酪搭建的网站：[https://cheesechat.vercel.app](https://cheesechat.vercel.app)
+- [Chatgpt Demo](https://github.com/ddiu8081/chatgpt-demo) - [[演示网站](https://chatgpt.ddiu.me/)]，速度飞快
+- [Chuanhu ChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - [[演示网站](https://huggingface.co/spaces/JohnSmith9982/ChuanhuChatGPT)]，可直接在 Hugging Face 上部署。
+
+
+
+
+
 &nbsp;
 
-## 四、类似应用
+## 五、桌面应用
 
 
 
-&nbsp;
 
-### 4.1、[New Bing](https://bing.com/new)
 
-&nbsp;
+如果你习惯在**桌面客户端**上使用 ChatGPT。
 
-微软推出的类 ChatGPT 应用，集成了“**搜索+聊天+GPT**”三个功能，目前已经全量开放，申请即可直接使用。
 
 
+同样也有很多基于 ChatGPT API 的桌面客户端，但分为两种，一种是**可免费使用** 的，一种是需要**自备 API** 的。
 
-并且，微软宣布 NewBing 已经使用了 **GPT 4** 的模型，搜索结果更强大，也更准确。
 
 
 
-Edge 浏览器集成的 **Chat** 侧边栏，更是阅读本地文档的利器。
 
+### 5.1、灵动 AiChat
 
-&nbsp;
 
-**使用说明：**
 
+**灵动 AiChat** 是国内站长开发的免费 ChatGPT ，有网页版和客户端版本，**无需登录，国内网络**就可以直接使用。
 
-我有魔法，但使用时出如果出现“Sorry, looks like your network...”的错误。
 
 
-原因是 DNS 解析，安装扩展 **Header Editor**，并导入奶酪的配置，之后删除 cookie，手动打开 bing.com 即可。
+本质上，这款软件就是将网页版嵌入到客户端里，所以它可以动态更新网页，也就不会失效了。
 
 
-电脑版：
-[https://www.runningcheese.com/Restore/HeaderEditor_NewBing.json](https://www.runningcheese.com/Restore/HeaderEditor_NewBing.json)
 
+支持 Windows、macOS、安卓 三个平台。
 
-手机版：
-[https://www.runningcheese.com/Restore/HeaderEditor_NewBing_Mobile.json](https://www.runningcheese.com/Restore/HeaderEditor_NewBing_Mobile.json)
 
 
+网页版：https://aiask7.com/   密码：666
 
+客户端：https://kkks.lanzout.com/s/ldaichat
 
-&nbsp;
-### 4.2、[文心一言](https://yiyan.baidu.com)
 
 
 
-由百度公司推出的类 ChatGPT 应用，目前还在测试阶段，**需要申请**才能使用。
 
+### 5.2、OneGPT
 
 
 
-&nbsp;
-### 4.3、[Bard](https://bard.google.com/)
+**OneGPT** 一款聚合了 ChatGPT、文心一言、通义千问、POE、Bard、New  Bing 等多个平台的客户端。
 
 
 
-由谷歌公司推出的类 ChatGPT 应用，目前还在测试阶段，**需要申请**才能使用。
-
-
-
-
-&nbsp;
-### 4.4、[ChatSonic](https://writesonic.com/chat)
-
-&nbsp;
-
-由 Writesonic 公司推出，ChatSonic 集成了“**搜索+聊天+GPT**”，而且还有图片生成功能，对标的自是 **NewBing**。
-
-
-
-值得一说的是，搜索技术是由谷歌提供。
-
-
-
-目前可以**免魔法访问**，注册后即可直接使用，注册用户**每月**可免费使用 **1** 万字。
-
-
-
-遗憾的是，没有中文界面，但聊天支持中文。
-
-
-
-
-&nbsp;
-
-### 4.5、[Poe](https://poe.com/sage)
-&nbsp;
-
-
-Poe 是国外知识问答网站 Quora，基于多个**第三方大型语言模型训练**的 AI 聊天应用，顶部有多个机器人名称。
-
-
-&nbsp;
-**Sage**：更擅长英语以外的语言。
-
-**Claude**：专注于英语，更擅长于创意写作任务。
-
-**Claude+**：优于 Claude，尤其是在非英语语言方面。
-
-**ChatGPT**：原版 ChatGPT
-
-**Dragonfly**：响应内容较短，因为它使用的是 **text-davinci-003** 模型。
-
-**GPT-4**：目前可用的最强大语言模型，在 Poe 上每天可以**免费试用一次**。
-
-
-&nbsp;
-PS：需要**使用魔法**访问，如出现 message timeout 的情况，刷新即可。
-
-
-&nbsp;
-
-### 4.6、[YouChat](https://you.com)
-
-&nbsp;
-
-YouChat 是国外搜索引擎 You.com，基于 GPT 开发的 AI 聊天 应用，但目前似乎并没有融合进“**搜索**”功能。
-
-
-只是单纯的类 ChatGPT 应用，而且国内访问**需要魔法**。
-
-
-
-
-&nbsp;
-
-## **五、桌面应用**
-
-
-
-由于 ChatGPT 网页版缓慢，所以基于 API 的 ChatGPT 桌面客户端诞生了，可以让你快速稳定地使用 ChatGPT。
-
-
-
-API 获取地址：[https://platform.openai.com/account/api-keys](https://platform.openai.com/account/api-keys)
-
-
-
-
-
-
-&nbsp;
-### 5.1、OneGPT
-
-
-
-GPT 聚合版，聚合了 ChatGPT、文心一言、通义千问、POE、Bard、New  Bing 等多个平台的客户端。
+同样，软件也内置了免费的 ChatGPT 镜像网站，同时你也可以使用自己的 API Key。
 
 
 
@@ -641,62 +696,121 @@ GPT 聚合版，聚合了 ChatGPT、文心一言、通义千问、POE、Bard、N
 
 
 
-而且，软件还有内置了免费的 ChatGPT，不过有每日限额，你可以使用自己的 API Key。
-
-
-
-地址：[https://github.com/1595901624/gpt-aggregated-edition](https://github.com/1595901624/gpt-aggregated-edition)
-
-
-
-&nbsp;
-
-### 5.2、[Chatbox](https://github.com/Bin-Huang/chatbox)
-
-
-
-Chatbox，一款开源跨平台的 ChatGPT 客户端，Prompt 的调试与管理工具，支持 Windows、Mac 和 Linux。
-
-
-
-下载地址：[https://github.com/Bin-Huang/chatbox/releases](https://github.com/Bin-Huang/chatbox/releases)
-
-Windows 本地下载：[地址](https://ghproxy.com/https://github.com/Bin-Huang/chatbox/releases/download/Chatbox-v0.2.8/chatbox_0.2.8_x64_en-US.msi)
-
-Mac 本地下载：[地址](https://ghproxy.com/https://github.com/Bin-Huang/chatbox/releases/download/Chatbox-v0.2.8/chatbox_0.2.8_x64.dmg)
-
-
-
-![S31_ChatBox](https://gcore.jsdelivr.net/gh/runningcheese/Awesome-ChatGPT/Images/S31_ChatBox.png)
+下载：[https://github.com/1595901624/gpt-aggregated-edition](https://github.com/1595901624/gpt-aggregated-edition)
 
 
 
 
 
 
-&nbsp;
-### 5.3、[OpenCat](https://apps.apple.com/app/opencat/id6445999201)
+
+### 5.3、ShellGPT
 
 
 
-上线 Mac App Store 的 ChatGPT 桌面客户端，和 ChatBox 一样，输入 API 密钥后即可使用，只支持 Mac 平台。
+**ShellGPT** 也是一款聚合了多个网站的免费 ChatGPT 客户端，无需登录，多节点自动切换，还支持免翻 Bing。
 
 
 
-此外，它还有 iOS 客户端。
+内置了**聊天、翻译、AI 作图**等多种模式，支持 Windows、macOS、Linux，还有 Android 端也支持。
+
+
+
+甚至还支持 Win7。
+
+
+
+下载：https://github.com/akl7777777/free-chatgpt-client-pub
 
 
 
 &nbsp;
 
-### 5.4、[ChatGPT Desktop](https://github.com/lencx/ChatGPT)
-
-
-简单地将 ChatGPT 网页版打包为桌面版，支持 Mac、Windows、Linux 三个平台。
+### 5.4、ChatGPT Desktop
 
 
 
-&nbsp;&nbsp;
+ChatGPT Desktop 是 ChatGPT 自发布以前，最早开发的桌面客户端之一。
+
+
+
+使用 Rust 语言编写，本质上就是将 ChatGPT 网页版打包为桌面版，支持 Windows、Linux、MacOS 多平台。
+
+
+
+所以使用时需要使用魔法。
+
+
+
+地址：https://github.com/lencx/ChatGPT
+
+
+
+
+
+### 5.5、Chatbox
+
+
+
+Chatbox 是一款开源跨平台的 ChatGPT 客户端。
+
+
+
+需要填入 API Key 才能使用，它的特点是，内置了提示词和与管理工具，支持 Windows、Mac 和 Linux 多平台。
+
+
+
+下载：https://github.com/Bin-Huang/chatbox
+
+
+
+
+
+### 5.6、ChatALL
+
+
+
+ChatALL 是一款聚合了多家语言模型的桌面客户端，可以把一条指令同时发给多个 AI，帮助您发现最好的回答。
+
+
+
+支持 Windows、macOS 和 Linux。
+
+
+
+下载：[https://github.com/sunner/ChatALL](https://github.com/sunner/ChatALL)
+
+
+
+
+
+### 5.7、MacGPT
+
+
+
+**MacGPT** 是 一款免费的 **macOS** 桌面 ChatGPT 客户端。
+
+
+
+支持**网页** 和 **API** 两种方式，支持全局调用，也支持在菜单栏上调用，还可以语音输入。
+
+
+
+它的另一个特点，是**采用自愿付费**的方法，你想免费下载，只需要输入 **0** 元，即可下载，但只支持 **macOS 12+**。
+
+
+
+此外，MacGPT 还有 iOS 客户端，叫 **GeePeeTee**。
+
+
+
+下载：[https://www.macgpt.com](https://www.macgpt.com)
+
+iOS：[https://apps.apple.com/nl/app/id6446040815](https://apps.apple.com/nl/app/id6446040815)
+
+
+
+
 
 
 
@@ -706,27 +820,121 @@ Mac 本地下载：[地址](https://ghproxy.com/https://github.com/Bin-Huang/cha
 
 
 
-### 6.1、[NewBing APP](https://apps.apple.com/us/app/microsoft-bing-search/id345323231?uo=4&at=11l6hc&app=itunes&ct=fnd)
+
+
+### 6.1、ChatGPT
 
 
 
-由微软推出的 ChatGPT 应用，目前使用美版 Bing App，可直接使用。
+OpenAI 现在已经发布了 ChatGPT 的 iOS 客户端，但目前只能通过 App Store 外区帐号下载。
+
+
+
+外区 ID 注册教程：[ChatGPT 手机版上线，1 分钟教你如何下载](https://mp.weixin.qq.com/s/pqmLkPiyAHxDqtXQLuDdYA)
+
+
+
+地址：[OpenAI Chatgpt](https://apps.apple.com/app/openai-chatgpt/id6448311069)
+
+
+
+
+
+### 6.2、NewBing
+
+
+
+微软推出的基于 ChatGPT 的搜索应用 **NewBing**，可以使用 Edge 浏览器来使用，支持 **iOS 和安卓**平台。
+
+
+
+iOS 上还可以用 **Bing App** 来使用，但同样也需要用外区 ID 来下载。
+
+
+
+此外，你还可以通过修改 **UA**，来让任意浏览器都可以使用 New Bing，具体可查看文章《A05 - NewBing》。
+
+
+
+地址：[Edge Browser](https://www.microsoft.com/zh-cn/edge)、[Bing Search](https://apps.apple.com/us/app/microsoft-bing-search/id345323231)
+
+
+
+
+
+### 6.3、Poe
+
+
+
+Poe 是问答社区 Quora 旗下的一款 AI 问答应用，支持 ChatGPT、Claude、Sage 等多种语言模型。
+
+
+
+免费用户还可以每天使用 1 次 GPT-4 和 3 次 Claude+，不过它目前只有 iOS 版。
+
+
+
+地址：[Poe](https://apps.apple.com/app/apple-store/id1640745955)
 
 &nbsp;
 
 
 
-### 6.2、[Poe](https://poe.com/)
+### 6.4、GeePeeTee
 
 
 
-Poe 是问答社区 Quora 旗下的一款 AI 问答应用，目前完全免费，但目前只有 iOS 版。
-
-&nbsp;
+**GeePeeTee** 与桌面客户端 MacGPT 出自同一家，支持 iOS，只需要输入 ChatGPT 的 **API Key** 就可以开启聊天。
 
 
 
-### 6.3、[ChatGPT 在线](https://miui.lanzoum.com/iSZGU0qosssf)
+地址：[GeePeeTee](https://apps.apple.com/nl/app/geepeetee/id6446040815)
+
+
+
+
+
+### 6.5、问东风 AI
+
+
+
+国内用户开发的 iOS 套壳 ChatGPT，它可以无需设置就可以使用，而且免费无广告，是没有魔法用户的好帮手。
+
+
+
+地址：[问东风 AI](https://apps.apple.com/cn/app/id1667149232)
+
+类似应用：[ChatAI Lite](https://apps.apple.com/cn/app/id6447493690) 
+
+
+
+
+
+### 6.6、灵动 AiChat
+
+
+
+**灵动 AiChat** 是国内站长开发的免费 ChatGPT ，有网页版和客户端版本，**无需登录，国内网络**就可以直接使用。
+
+
+
+本质上，这款软件就是将网页版嵌入到客户端里，所以它可以动态更新网页，也就不会失效了。
+
+
+
+支持 **Windows、macOS、安卓** 三个平台。
+
+
+
+网页：https://aiask7.com/   密码：666
+
+地址：https://kkks.lanzout.com/s/ldaichat
+
+
+
+
+
+### 6.7、ChatGPT 在线
 
 
 
@@ -740,27 +948,143 @@ Poe 是问答社区 Quora 旗下的一款 AI 问答应用，目前完全免费�
 
 下载：[https://miui.lanzoum.com/iSZGU0qosssf](https://miui.lanzoum.com/iSZGU0qosssf)
 
+类似应用：[AIChat 中文](https://wws.lanzoul.com/b0czeabqj)，使用时需要登录用，但注册时可以随便填一个手机号就行。
 
 
 
 
 
+
+
+## 七、大语言模型
+
+
+
+
+
+随着 ChatGPT 的大火，众多公司也入局了 ChatGPT，推出了自己的大语言模型，这其中不乏有很多佼佼者。
+
+
+
+
+
+### 7.1、Claude
+
+
+
+**Claude** 是原 OpenAI 员工离职后自立门户开发的 AI 机器人，效果媲美 ChatGPT，被称为 ChatGPT 的**最强对手**。
+
+
+
+想要使用 **Claude**，也很简单，在“**魔法**”的加持下，步骤可以分为两步。
+
+
+
+一是注册一个 **Slack** 帐号，如果你有谷歌帐号，可直接授权登录，然后创建一个“**工作区**”。
+
+
+
+二是搜索并添加 **Claude** 到 Slack，即可使用。
+
+
+
+地址：[https://slack.com](https://slack.com) [[🔍](assets/A01 - ChatGPT/A01_Claude3.png)]
+
+
+
+此外，**Claude** 还有一个 **Claude 100K** 的项目。
+
+
+
+它的特点在于，支持一性次输入 75000 个单词，数量远超 GPT-4 32K 的 25000 个单词。
+
+
+
+目前还处于测试阶段，但在 **Poe 会员**里可以体验，每月可以使用 **100** 次。
+
+
+
+值得一说的是，Poe 支持国内**双币种信用卡**。
+
+
+
+
+
+### 7.2、Bard
+
+
+
+由谷歌公司推出的类 ChatGPT 应用，目前已经开放使用，但还是**需要申请**才能使用。
+
+
+
+与 ChatGPT 相比，Bard 还不支持代码功能，也不支持中文。
+
+
+
+地址：https://bard.google.com
+
+
+
+
+
+### 7.3、Vicuna
+
+
+
+由斯坦福学者联手 CMU、UC伯克利等推出一个全新模型—— 130 亿参数的 Vicuna，俗称「小羊驼」。
+
+
+
+经测试，Vicuna 已经能达到 ChatGPT 90% 的性能。
+
+
+
+地址：[https://chat.lmsys.org](https://chat.lmsys.org)
 
 &nbsp;
 
 
 
+### 7.4、文心一言
+
+
+
+由百度公司推出的大语言模型，也是继 ChatGPT 之后最早入局的，现已全面开放，但仍然**需要申请**才能使用。
+
+
+
+除此之外，文心一言还支持绘画、视频生成等功能。
+
+
+
+地址：https://yiyan.baidu.com
+
+
+
+
+
+### 7.5、通义千问
+
+
+
+由阿里推出的大语言模型，现已开放申请，申请时需要填写企业名称，但实测随便写一个公司名称，也可以通过。
+
+
+
+上手体验后感觉很不错，有望成为国内最好的大语言模型。
+
+
+
+地址：https://tongyi.aliyun.com
 
 
 
 
 
 
-&nbsp;
 
-
-
-## 七、使用技巧
+## 八、使用技巧
 
 &nbsp;
 
@@ -770,7 +1094,7 @@ Poe 是问答社区 Quora 旗下的一款 AI 问答应用，目前完全免费�
 
 
 &nbsp;
-### 7.1、英文技巧
+### 8.1、英文技巧
 
 &nbsp;
 
@@ -784,7 +1108,7 @@ Poe 是问答社区 Quora 旗下的一款 AI 问答应用，目前完全免费�
 
 
 &nbsp;
-### 7.2、中文技巧
+### 8.2、中文技巧
 
 &nbsp;
 
@@ -792,9 +1116,6 @@ Poe 是问答社区 Quora 旗下的一款 AI 问答应用，目前完全免费�
 - [ChatGPT Shortcut](https://newzone.top/chatgpt/cn/?name=%C3%A7%C3%A7)：简单易用的 ChatGPT 快捷指令表
 - [ChatGPT 指令大全](https://www.explainthis.io/zh-hans/chatgpt)：提供精炼过的指令语句。
 - [你用 ChatGPT 生成过哪些有趣的回答](https://www.zhihu.com/question/570430650)：知乎问答案。
-
-
-
 
 
 

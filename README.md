@@ -19,6 +19,7 @@ ChatGPT 是一个大型语言模型，由OpenAI训练而成，能够通过文本
 
 
 
+
 ##  一、官方网站
 
 <br/>
@@ -37,8 +38,6 @@ ChatGPT 网页可以免费使用，但未对大陆开放，访问时需要魔法
 
 <br/>
 
-
-
 ### 1.2、**Plus 帐户**
 
 
@@ -52,8 +51,6 @@ ChatGPT 网页可以免费使用，但未对大陆开放，访问时需要魔法
 
 
 教程：[ChatGPT Plus 开通教程](https://github.com/gclhaha/chatGPT-plus-guide)
-
-
 
 <br/>
 
@@ -121,8 +118,6 @@ Token 计算 2：[https://tiktokenizer.vercel.app](https://tiktokenizer.vercel.a
 
 Token 计算 3：[https://openai.deepakness.com](https://openai.deepakness.com)
 
-
-
 <br/>
 
 ### 1.4、合租代买
@@ -145,9 +140,8 @@ Token 计算 3：[https://openai.deepakness.com](https://openai.deepakness.com)
 
 
 
-
-
 <br/>
+
 
 
 

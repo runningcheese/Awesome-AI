@@ -19,10 +19,9 @@ ChatGPT 是一个大型语言模型，由OpenAI训练而成，能够通过文本
 
 
 
-
 ##  一、官方网站
 
-
+<br/>
 
 ### 1.1、免费帐户
 
@@ -36,7 +35,7 @@ ChatGPT 网页可以免费使用，但未对大陆开放，访问时需要魔法
 
 注册：[中国区注册 OpenAI 账号](https://readdevdocs.com/blog/makemoney/%E4%B8%AD%E5%9B%BD%E5%8C%BA%E6%B3%A8%E5%86%8COpenAI%E8%B4%A6%E5%8F%B7%E8%AF%95%E7%94%A8ChatGPT%E6%8C%87%E5%8D%97.html#%E5%89%8D%E6%9C%9F%E5%87%86%E5%A4%87)
 
-
+<br/>
 
 
 
@@ -56,7 +55,7 @@ ChatGPT 网页可以免费使用，但未对大陆开放，访问时需要魔法
 
 
 
-
+<br/>
 
 ### 1.3、API Key
 
@@ -88,7 +87,7 @@ ChatGPT 还有另外一种形式：**API Key**。
 
 免费 API Key 3：[https://terobox.com](https://terobox.com)（需魔法）
 
-
+<br/>
 
 **API Key 收费：**
 
@@ -104,7 +103,7 @@ ChatGPT Plus 采用每月固定 20 美元的收费方式，但对于轻度使用
 
 GPT-4 的 Token 消耗，根据使用情况，是 GPT-3 的 15 倍 和 30 倍，而且必须是 **Plus** 付费用户。
 
-
+<br/>
 
 **Token 说明：**
 
@@ -124,7 +123,7 @@ Token 计算 3：[https://openai.deepakness.com](https://openai.deepakness.com)
 
 
 
-
+<br/>
 
 ### 1.4、合租代买
 
@@ -146,6 +145,9 @@ Token 计算 3：[https://openai.deepakness.com](https://openai.deepakness.com)
 
 
 
+
+
+<br/>
 
 
 

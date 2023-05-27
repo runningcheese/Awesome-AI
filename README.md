@@ -21,6 +21,7 @@ ChatGPT 是一个大型语言模型，由OpenAI训练而成，能够通过文本
 
 
 
+
 ##  一、官方网站
 
 <br/>
@@ -153,7 +154,7 @@ Token 计算 3：[https://openai.deepakness.com](https://openai.deepakness.com)
 
 ## 二、GPT-3 镜像
 
-
+<br/>
 
 OpenAI 开放了 **GPT-3.5-turbo** 的 API。
 
@@ -191,7 +192,7 @@ OpenAI 开放了 **GPT-3.5-turbo** 的 API。
 
 
 
-白票技巧：所有无需登录就能使用的网站，只需要清除 cookie，就可以重置使用额度。
+白票技巧：所有无需登录就能使用的网站，只需要清除 Cookie，就可以重置使用额度。
 
 <br/>
 
@@ -201,15 +202,15 @@ OpenAI 开放了 **GPT-3.5-turbo** 的 API。
 
 
 
-| ▼ **需要魔法**                                               | **简介**                             |
-| ------------------------------------------------------------ | ------------------------------------ |
-| 🌐 [https://chat-shared.zhile.io/shared.html](https://chat-shared.zhile.io/shared.html) 👍 | 无限制、需魔法，免费畅爽使用 ChatGPT |
-| 🌐 [https://chat.theb.ai](https://chat.theb.ai) 👍             | 无限制、需魔法                       |
-| 🌐 [https://freegpt.one](https://freegpt.one)                 | 无限制、需魔法                       |
-| 🌐 [https://freegpt.top](https://freegpt.top)                 | 无限制、需魔法                       |
-| 🌐 [https://chatgptproxy.info](https://chatgptproxy.info)     | 无限制、需魔法                       |
-| 🌐 [ChatGPT Sites](https://lzw.me/x/chatgpt-sites/)           | 更多镜像网站                         |
-| 🌐 [Free ChatGPT Site List](https://github.com/xx025/carrot)  | 更多镜像网站                         |
+| ▼ **需要魔法**                                               | **简介**                               |
+| ------------------------------------------------------------ | -------------------------------------- |
+| 🌐 [https://chat-shared.zhile.io/shared.html](https://chat-shared.zhile.io/shared.html) 👍 | 无限制、需魔法，免费畅爽使用 ChatGPT。 |
+| 🌐 [https://chat.theb.ai](https://chat.theb.ai) 👍             | 无限制、需魔法                         |
+| 🌐 [https://freegpt.one](https://freegpt.one)                 | 无限制、需魔法                         |
+| 🌐 [https://freegpt.top](https://freegpt.top)                 | 无限制、需魔法                         |
+| 🌐 [https://chatgptproxy.info](https://chatgptproxy.info)     | 无限制、需魔法                         |
+| 🌐 [ChatGPT Sites](https://lzw.me/x/chatgpt-sites/)           | 更多镜像网站                           |
+| 🌐 [Free ChatGPT Site List](https://github.com/xx025/carrot)  | 更多镜像网站                           |
 
 <br/>
 
@@ -235,7 +236,7 @@ OpenAI 开放了 **GPT-3.5-turbo** 的 API。
 
 
 
-地址：[https://chat-shared1.zhile.io/shared.html](https://chat-shared1.zhile.io/shared.html)
+地址：[https://chat-shared1.zhile.io/shared.html](https://chat-shared1.zhile.io/shared.html) [[🔍](https://cdn.jsdelivr.net/gh/runningcheese/Awesome-ChatGPT/assets/A01%20-%20ChatGPT/A01_Pandora.png)]
 
 
 
@@ -245,7 +246,7 @@ OpenAI 开放了 **GPT-3.5-turbo** 的 API。
 
 ## 三、GPT-4 镜像
 
-
+<br/>
 
 2023 年3月14日，OpenAI 发布 **GPT-4**。
 
@@ -495,7 +496,7 @@ Ora.sh 是一个提供了多种定制化的聊天机器人，基于用户指定�
 
 ## 四、网页应用
 
-
+<br/>
 
 原版 ChatGPT 不仅有访问上的限制，而且**没有辅助功能**，于是网友开发了各种“**增强版**” 的 ChatGPT 网页应用。
 
@@ -633,7 +634,7 @@ MyGPT 也是一款基于 ChatGPT 的第三方 ChatGPT 网页应用，它的独�
 
 ## 五、桌面应用
 
-
+<br/>
 
 如果你习惯在**桌面客户端**上使用 ChatGPT。
 
@@ -711,7 +712,7 @@ MyGPT 也是一款基于 ChatGPT 的第三方 ChatGPT 网页应用，它的独�
 
 <br/>
 
-&nbsp;
+
 
 ### 5.4、ChatGPT Desktop
 
@@ -803,9 +804,7 @@ iOS：[https://apps.apple.com/nl/app/id6446040815](https://apps.apple.com/nl/app
 
 ## 六、手机应用
 
-&nbsp;
-
-
+<br/>
 
 ### 6.1、ChatGPT
 
@@ -943,7 +942,7 @@ Poe 是问答社区 Quora 旗下的一款 AI 问答应用，支持 ChatGPT、Cla
 
 ## 七、大语言模型
 
-
+<br/>
 
 随着 ChatGPT 的大火，众多公司也入局了 ChatGPT，推出了自己的大语言模型，这其中不乏有很多佼佼者。
 
@@ -1011,8 +1010,6 @@ Poe 是问答社区 Quora 旗下的一款 AI 问答应用，支持 ChatGPT、Cla
 
 <br/>
 
-
-
 ### 7.4、文心一言
 
 
@@ -1054,6 +1051,8 @@ Poe 是问答社区 Quora 旗下的一款 AI 问答应用，支持 ChatGPT、Cla
 
 
 
+
+
 ## 八、使用技巧
 
 &nbsp;
@@ -1062,10 +1061,8 @@ Poe 是问答社区 Quora 旗下的一款 AI 问答应用，支持 ChatGPT、Cla
 
 
 
-
 &nbsp;
 ### 8.1、英文技巧
-
 &nbsp;
 
 - [GPT-3 Demo.com](https://gpt3demo.com)：一个汇聚了所有 ChatGPT 应用的资讯网站。
@@ -1079,7 +1076,6 @@ Poe 是问答社区 Quora 旗下的一款 AI 问答应用，支持 ChatGPT、Cla
 
 &nbsp;
 ### 8.2、中文技巧
-
 &nbsp;
 
 - [ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)：各种场景使用指南，学习怎么让它听你的话。    

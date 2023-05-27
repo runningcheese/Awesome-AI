@@ -22,7 +22,7 @@ ChatGPT 是一个大型语言模型，由OpenAI训练而成，能够通过文本
 
 ##  一、官方网站
 
-<br/>
+&nbsp;
 
 ### 1.1、免费帐户
 
@@ -36,7 +36,7 @@ ChatGPT 网页可以免费使用，但未对大陆开放，访问时需要魔法
 
 注册：[中国区注册 OpenAI 账号](https://readdevdocs.com/blog/makemoney/%E4%B8%AD%E5%9B%BD%E5%8C%BA%E6%B3%A8%E5%86%8COpenAI%E8%B4%A6%E5%8F%B7%E8%AF%95%E7%94%A8ChatGPT%E6%8C%87%E5%8D%97.html#%E5%89%8D%E6%9C%9F%E5%87%86%E5%A4%87)
 
-<br/>
+&nbsp;
 
 ### 1.2、**Plus 帐户**
 
@@ -52,7 +52,7 @@ ChatGPT 网页可以免费使用，但未对大陆开放，访问时需要魔法
 
 教程：[ChatGPT Plus 开通教程](https://github.com/gclhaha/chatGPT-plus-guide)
 
-<br/>
+&nbsp;
 
 ### 1.3、API Key
 

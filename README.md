@@ -261,6 +261,18 @@ OpenAI 开放了 **GPT-3.5-turbo** 的 API。
 <br/>
 
 
+### 3.0 New Bing
+
+微软自称已在 New Bing 中集成 GPT-4，但实际效果不可知，如无法直接访问 Newbing，可以用下面的镜像网站。
+
+
+[https://bing.vcanbb.top/web/#/](https://bing.vcanbb.top/web/#/)
+[https://bing-vercel.vcanbb.top/web/#/](https://bing-vercel.vcanbb.top/web/#/)
+[https://bing-render.vcanbb.top/web/#/](https://bing-render.vcanbb.top/web/#/)
+[https://bing-railway.vcanbb.top/web/#/](https://bing-railway.vcanbb.top/web/#/)
+[https://go-proxy-bingai.onrender.com/web/#/](https://go-proxy-bingai.onrender.com/web/#/)
+
+<br/>
 
 ### 3.1、ChatmindAI
 

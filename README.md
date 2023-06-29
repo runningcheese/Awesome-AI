@@ -172,7 +172,7 @@ OpenAI 开放了 **GPT-3.5-turbo** 的 API。
 
 | ▼ **无需魔法**                                               | **简介**                                      |
 | ------------------------------------------------------------ | --------------------------------------------- |
-| 🌐 [https://chat-shared1.zhile.io/shared.html](https://chat-shared1.zhile.io/shared.html) 👍 | 共享帐号，免费畅爽使用 ChatGPT。              |
+| 🌐 [https://chat-shared2.zhile.io/shared.html](https://chat-shared2.zhile.io/shared.html) 👍 | 共享帐号，免费畅爽使用 ChatGPT。              |
 | 🌐 [https://www.mydyjs.com/gpt.html](https://www.mydyjs.com/gpt.html) 👍 | ChatGPT 镜像网站聚合。                        |
 | 🌐 [https://s7si.ldaichat.com](https://s7si.ldaichat.com) 👍   | 简单好用，需要先输入密码 666，还有桌面版。    |
 | 🌐 [https://chat5.aichatos.com](https://chat5.aichatos.com)   | 简单好用，如果失效可换用 chat2 一直到 chat9。 |

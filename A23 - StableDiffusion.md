@@ -48,6 +48,8 @@ Midjourney、Stable Diffusion、DALL-E 2、Imagen 等，本质上都是基于 Di
 
 
 
+<br/>
+
 
 ### 1.3、在线体验
 
@@ -78,6 +80,8 @@ https://www.diffus.graviti.com
 
 
 
+<br/>
+
 
 ### 1.4、云服务器
 
@@ -96,6 +100,8 @@ https://www.diffus.graviti.com
 
 
 
+<br/>
+
 
 ## 二、Windows 安装
 
@@ -103,6 +109,8 @@ https://www.diffus.graviti.com
 
 
 
+
+<br/>
 
 
 ### 2.1、硬件要求
@@ -125,6 +133,8 @@ https://www.diffus.graviti.com
 
 
 
+<br/>
+
 ### 2.2、Stable Diffusion WebUI
 
 
@@ -143,6 +153,8 @@ https://www.diffus.graviti.com
 
 
 
+
+<br/>
 
 
 ### 2.3、一键安装包
@@ -164,6 +176,8 @@ https://www.diffus.graviti.com
 
 
 
+<br/>
+
 ## 三、Mac 安装
 
 
@@ -176,6 +190,8 @@ https://www.diffus.graviti.com
 
 
 
+<br/>
+
 ### 3.1、硬件要求
 
 
@@ -185,6 +201,8 @@ https://www.diffus.graviti.com
 
 
 
+
+<br/>
 
 ### 3.2、Diffusion Bee
 
@@ -206,6 +224,8 @@ https://www.diffus.graviti.com
 
 
 
+
+<br/>
 
 
 ### 3.3、Draw Things
@@ -240,6 +260,8 @@ iPad：iPadOS 15.4 及以上系统。
 
 
 
+<br/>
+
 ### 3.4、Stable Diffusion WebUI
 
 
@@ -259,10 +281,14 @@ Draw Things 可能是 Mac 下最好的 SD 应用，唯一的缺点是不支持�
 
 
 
+<br/>
+
 
 ## 四、模型说明
 
 
+
+<br/>
 
 ### 1、底模型
 
@@ -279,12 +305,16 @@ Draw Things 可能是 Mac 下最好的 SD 应用，唯一的缺点是不支持�
 
 
 
+<br/>
+
 ### 2、LORA 模型
 
 
 更新中....
 
 
+
+<br/>
 
 ### 3、其它模型
 
@@ -296,14 +326,20 @@ Draw Things 可能是 Mac 下最好的 SD 应用，唯一的缺点是不支持�
 
 
 
+<br/>
+
 
 ## 五、模型下载
 
+
+<br/>
 
 **模型下载：**
 
 Civitai：https://civitai.com（目前最火的 SD 模型网站）
 aigccafe：https://aigccafe.com（国内对 Civitai 的镜像网站，支持高速下载）
+
+<br/>
 
 **写实模型：**
 
@@ -340,7 +376,9 @@ https://civitai.com/models/3627
 
 
 
-提示词网站：
+<br/>
+
+**提示词网站：**
 
 Novel AI Tag：https://wolfchen.top/tag
 
@@ -352,6 +390,8 @@ ClickPrompt：https://www.clickprompt.org/zh-CN/stable-diffusion-generator
 
 
 
+<br/>
+
 
 ##  六、模型微调
 
@@ -360,6 +400,8 @@ ClickPrompt：https://www.clickprompt.org/zh-CN/stable-diffusion-generator
 更新中....
 
 
+
+<br/>
 
 
 ## 七、模型训练
@@ -370,6 +412,8 @@ ClickPrompt：https://www.clickprompt.org/zh-CN/stable-diffusion-generator
 
 
 
+
+<br/>
 
 
 ## 结尾 

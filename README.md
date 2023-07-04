@@ -392,8 +392,7 @@ Ora.sh 是一个提供了多种定制化的聊天机器人，基于用户指定�
 
 
 
-首先，加入 GPT4free 群组，地址：https://discord.gg/DweeRvYsTM
-
+首先，加入 GPT4free 群组，地址：[https://discord.com/invite/DweeRvYsTM](https://discord.com/invite/DweeRvYsTM)
 
 
 ![A01_Freegpt42](https://cdn.jsdelivr.net/gh/runningcheese/Awesome-ChatGPT/assets/A01%20-%20ChatGPT/A01_Freegpt42.png)
@@ -446,7 +445,7 @@ Ora.sh 是一个提供了多种定制化的聊天机器人，基于用户指定�
 
 
 
-首先，加入 GPT4free 群组，地址：https://discord.gg/DweeRvYsTM
+首先，加入 GPT4free 群组，地址：[https://discord.com/invite/DweeRvYsTM](https://discord.com/invite/DweeRvYsTM)
 
 
 

@@ -1106,10 +1106,7 @@ Poe 是问答社区 Quora 旗下的一款 AI 问答应用，支持 ChatGPT、Cla
 ## 关注奶酪
 
 
-
-![S31_关注奶酪](https://gcore.jsdelivr.net/gh/runningcheese/Blog/Inbox/S31_%E5%85%B3%E6%B3%A8%E5%A5%B6%E9%85%AA.png)
-
-
+![S31关注奶酪](https://gcore.jsdelivr.net/gh/runningcheese/Blog/Inbox/Cheese.png)
 
 
 

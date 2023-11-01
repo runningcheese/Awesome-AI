@@ -5,14 +5,13 @@
 </p>
 <h1 align="center">Awesome AI</h1>
 
-打造切实有用《人工智能指南》，AKA 你的《人工智能指南》，奶酪出品，开源免费，持续更新，保持日更！
+打造切实有用《人工智能指南》，AKA 你的《人工智能指南》，奶酪出品，开源免费，持续更新！
 
 
 
 
 
 &nbsp;
-
 
 
 
@@ -26,13 +25,23 @@
 
 
 
-ChatGPT 网页可以免费使用，但未对大陆开放，访问时需要魔法（**香港节点不可用**），注册时需要境外手机号。
+ChatGPT 网页可以免费使用，但未对大陆开放，访问时需要魔法（**普通节点不可用**），注册时需要境外手机号。
 
 
 
 官网：[https://chat.openai.com](https://chat.openai.com)
 
 注册：[中国区注册 OpenAI 账号](https://readdevdocs.com/blog/makemoney/%E4%B8%AD%E5%9B%BD%E5%8C%BA%E6%B3%A8%E5%86%8COpenAI%E8%B4%A6%E5%8F%B7%E8%AF%95%E7%94%A8ChatGPT%E6%8C%87%E5%8D%97.html#%E5%89%8D%E6%9C%9F%E5%87%86%E5%A4%87)
+
+<br/>
+
+**说明：**
+
+我有魔法，但还是无法使用 ChatGPT，怎么办？这是因为 ChatGPT 主动屏蔽了中国大陆地区。
+
+我们可以使用 **WARP** 网络来绕开屏蔽，现成可以一键导入的方法：[看这里](https://neko-warp.nloli.xyz/)。
+
+自己手动申请 Cloudflare 的免费 WARP：[看这里](https://www.youtube.com/watch?v=yiectqdOCqo)。
 
 <br/>
 
@@ -80,13 +89,17 @@ ChatGPT 还有另外一种形式：**API Key**。
 
 查询 API Key 余量：[https://aivesa.com/checkbilling](https://aivesa.com/checkbilling)
 
-免费 API Key 1：[https://free.naisii.com](https://free.naisii.com)
+<br/>
 
-免费 API Key 2：[https://freeopenai.xyz](https://freeopenai.xyz)（需魔法）
+免费 API Key 1：[https://faucet.openkey.cloud](https://faucet.openkey.cloud)
 
-免费 API Key 3：[https://terobox.com](https://terobox.com)（需魔法）
+免费 API Key 2：[https://terobox.com](https://terobox.com)
+
+免费 API Key 3：https://djsfenxiang.com
 
 <br/>
+
+
 
 **API Key 收费：**
 
@@ -172,19 +185,10 @@ OpenAI 开放了 **GPT-3.5-turbo** 的 API。
 
 | ▼ **无需魔法**                                               | **简介**                                      |
 | ------------------------------------------------------------ | --------------------------------------------- |
-| 🌐 [https://chat-shared2.zhile.io/shared.html](https://chat-shared2.zhile.io/shared.html) 👍 | 共享帐号，免费畅爽使用 ChatGPT。              |
-| 🌐 [https://www.mydyjs.com/gpt.html](https://www.mydyjs.com/gpt.html) 👍 | ChatGPT 镜像网站聚合。                        |
-| 🌐 [https://s7si.ldaichat.com](https://s7si.ldaichat.com) 👍   | 简单好用，需要先输入密码 666，还有桌面版。    |
+| 🌐 [https://chat-shared3.zhile.io/shared.html](https://chat-shared3.zhile.io/shared.html) 👍 | 共享帐号，免费畅爽使用 ChatGPT。              |
+| 🌐 [https://www.mydyjs.com/gpt.html](https://www.mydyjs.com/gpt.html) | 网站聚合，ChatGPT 镜像网站聚合。              |
+| 🌐 [https://s7si.ldaichat.com](https://s7si.ldaichat.com)     | 简单好用，需要先输入密码 666，还有桌面版。    |
 | 🌐 [https://chat5.aichatos.com](https://chat5.aichatos.com)   | 简单好用，如果失效可换用 chat2 一直到 chat9。 |
-| 🌐 [https://aicorehq.com](https://aicorehq.com)               | 简单好用，                                    |
-| 🌐 [https://chat.jubianxingqiu.com](https://chat.jubianxingqiu.com) | 简单好用，                                    |
-| 🌐 [https://chat.jinshutuan.com](https://chat.jinshutuan.com) | 简单好用，                                    |
-| 🌐 [https://chat4.aichatos.xyz](https://chat4.aichatos.xyz)   | 简单好用，                                    |
-| 🌐 [https://chat.waixingyun.cn](https://chat.waixingyun.cn)   | 简单好用，                                    |
-| 🌐 [https://chat.extkj.cn](https://chat.extkj.cn)             | 简单好用，                                    |
-| 🌐 [https://mirrorchat.extkj.cn](https://mirrorchat.extkj.cn) | 简单好用，上面网站的备用网站。                |
-| 🌐 [https://2dog.51mskd.com/chat](https://2dog.51mskd.com/chat) | 简单好用，自带了一些现成的模版。              |
-| 🌐 [http://chat.newstop.asia/#/chat](http://chat.newstop.asia/#/chat) | 简单好用，但会屏蔽敏感内容。                  |
 
 
 
@@ -201,12 +205,8 @@ OpenAI 开放了 **GPT-3.5-turbo** 的 API。
 | ▼ **需要魔法**                                               | **简介**                               |
 | ------------------------------------------------------------ | -------------------------------------- |
 | 🌐 [https://chat-shared.zhile.io/shared.html](https://chat-shared.zhile.io/shared.html) 👍 | 无限制、需魔法，免费畅爽使用 ChatGPT。 |
-| 🌐 [https://chat.theb.ai](https://chat.theb.ai) 👍             | 无限制、需魔法                         |
-| 🌐 [https://freegpt.one](https://freegpt.one)                 | 无限制、需魔法                         |
-| 🌐 [https://freegpt.top](https://freegpt.top)                 | 无限制、需魔法                         |
-| 🌐 [https://chatgptproxy.info](https://chatgptproxy.info)     | 无限制、需魔法                         |
-| 🌐 [ChatGPT Sites](https://lzw.me/x/chatgpt-sites/)           | 更多镜像网站                           |
-| 🌐 [Free ChatGPT Site List](https://github.com/xx025/carrot)  | 更多镜像网站                           |
+| 🌐 [ChatGPT Sites](https://lzw.me/x/chatgpt-sites/)           | 更多镜像网站。                         |
+| 🌐 [Free ChatGPT Site List](https://github.com/xx025/carrot)  | 更多镜像网站。                         |
 
 <br/>
 
@@ -224,7 +224,7 @@ OpenAI 开放了 **GPT-3.5-turbo** 的 API。
 
 
 
-帐号来源于网友共享，点击即可使用，第一次使用时，需要输入 **6** 个字符来隔绝会话保护隐私。
+帐号来源于网友共享，点击即可使用，第一次使用时，需要输入 **8** 个字符来隔绝会话保护隐私。
 
 
 
@@ -232,9 +232,9 @@ OpenAI 开放了 **GPT-3.5-turbo** 的 API。
 
 
 
-地址：[https://chat-shared1.zhile.io/shared.html](https://chat-shared1.zhile.io/shared.html) [[🔍](https://cdn.jsdelivr.net/gh/runningcheese/Awesome-ChatGPT/assets/A01%20-%20ChatGPT/A01_Pandora.png)]
+地址：[https://chat-shared3.zhile.io/shared.html](https://chat-shared3.zhile.io/shared.html) [[🔍](https://cdn.jsdelivr.net/gh/runningcheese/Awesome-ChatGPT/assets/A01%20-%20ChatGPT/A01_Pandora.png)]
 
-
+说明：如果地址失效，可以将链接里的 3 改成 4。
 
 <br/>
 
@@ -261,23 +261,16 @@ OpenAI 开放了 **GPT-3.5-turbo** 的 API。
 <br/>
 
 
-### 3.0 New Bing
 
-微软自称已在 New Bing 中集成 GPT-4，但实际效果不可知，如无法直接访问 Newbing，可以用下面的镜像网站。
-
-<br/>
-
-### 3.1、ChatmindAI
+### 3.1、NewBing
 
 
 
-国内站长开发的 ChatGPT 网站，特点是无需魔法即可使用，需要注册使用，注册用户可每天免费使用 **2** 次。
-
-
-
-地址：[https://chatmindai.aabiji.com](https://chatmindai.aabiji.com) [[🔍](https://cdn.jsdelivr.net/gh/runningcheese/Awesome-ChatGPT/assets/A01%20-%20ChatGPT/A01_ChatmindAI.png)]
+微软自称已在 New Bing 中集成 GPT-4，但实际效果不可知。
 
 <br/>
+
+
 
 
 
@@ -379,116 +372,7 @@ Ora.sh 是一个提供了多种定制化的聊天机器人，基于用户指定�
 
 ![A01_Freegpt4](https://cdn.jsdelivr.net/gh/runningcheese/Awesome-ChatGPT/assets/A01%20-%20ChatGPT/A01_Freegpt4.png)
 
-
-
-**使用方法：**
-
-
-
-首先，加入 GPT4free 群组，地址：[https://discord.com/invite/DweeRvYsTM](https://discord.com/invite/DweeRvYsTM)
-
-
-![A01_Freegpt42](https://cdn.jsdelivr.net/gh/runningcheese/Awesome-ChatGPT/assets/A01%20-%20ChatGPT/A01_Freegpt42.png)
-
-
-
-然后，点击左侧的「**ai-chatroom**」进入聊天，使用指令「``!Ai 模型名称 聊天内容``」进行聊天。
-
-
-
-支持的模型包括：ChatGPT、GPT-4、 Sage、Claude、Claude+、 Dragonfly 等。
-
-
-
-比如输入：``!Ai GPT-4 你是GPT4吗？``
-
-
-
-输入后，当输入框显示「**Freegpt4 正在输入....**」则说明正在回复中。
-
-
-
-![A01_Freegpt42](https://cdn.jsdelivr.net/gh/runningcheese/Awesome-ChatGPT/assets/A01%20-%20ChatGPT/A01_Freegpt43.png)
-
-
-
-而 GPT-4 模型花费的时间。
-
-
-
-会根据你问的内容来决定，简单的问题几秒就能给出答案，如果要 **1000** 字时，花费的时间可能会超过 **1 分多钟**。
-
-
-
-**期间静静等待即可**，不要重复输入相同的内容，实在等不及了，可以刷新一下网页。
-
 <br/>
-
-
-
-### 3.6、Poe Token
-
-
-
-此外，GPT4free 里还有一个叫 **poe-token** 的频道，这是 **Poe 帐号共享**的一个项目。
-
-
-
-**使用方法：**
-
-
-
-首先，加入 GPT4free 群组，地址：[https://discord.com/invite/DweeRvYsTM](https://discord.com/invite/DweeRvYsTM)
-
-
-
-**如已加入则可跳过。**
-
-
-
-![A01_Freegpt42](https://cdn.jsdelivr.net/gh/runningcheese/Awesome-ChatGPT/assets/A01%20-%20ChatGPT/A01_Freegpt42.png)
-
-
-
-然后，点击左侧的「**#poe-token**」进入频道，这里会显示实时分享的 Tokens，任意选择复制一行即可。
-
-
-
-![A01_Poe_Token](https://cdn.jsdelivr.net/gh/runningcheese/Awesome-ChatGPT/assets/A01%20-%20ChatGPT/A01_Poe_Token.png)
-
-
-
-接着，给浏览器安装上扩展 **Cookie-editor**。（地址：[Chrome](https://chrome.google.com/webstore/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm)、[Edge](https://microsoftedge.microsoft.com/addons/detail/cookieeditor/neaplmfkghagebokkhpjpoebhdledlfi)、[Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/cookie-editor/)、[本地下载](https://www.crxsoso.com/webstore/detail/hlkenndednhfkekhgcdicdfddnkalmdm)）
-
-
-
-再来，打开网站 [https://poe.com](https://poe.com)
-
-
-
-点击扩展图标，将网页 Cookie 修改为之前复制的 **Tokens**。
-
-
-
-![A01_Poe_Token2](https://cdn.jsdelivr.net/gh/runningcheese/Awesome-ChatGPT/assets/A01%20-%20ChatGPT/A01_Poe_Token2.png)
-
-
-
-最后，点击保存，刷新一下网页即可使用。
-
-
-
-![A01_Poe_Token3](https://cdn.jsdelivr.net/gh/runningcheese/Awesome-ChatGPT/assets/A01%20-%20ChatGPT/A01_Poe_Token3.png)
-
-
-
-此外，你可以左侧菜单里的“**Settings**”，查看当前帐号的可用额度，如果没有了，那就更换一个新的 **Tokens**。
-
-
-
-当然，在这里你还可以试用 **Claude+** 等模型。
-
-
 
 <br/>
 

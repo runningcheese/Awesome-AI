@@ -1,0 +1,772 @@
+[批量抠图工具V1.0，支持人像抠图、衣服抠图、动漫抠图、通用抠图，什么环境都不用配置，解压就能用哈！_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1BA4m1L7pj/?p=1)
+
+[开源照片背景去除模型-BRIA Background Removal v1.4 – Zc菌分享](https://zcjun.com/33196.html)
+
+
+
+
+
+
+
+
+
+# 标题
+
+
+
+全网首发，没有比这更快的一键抠图方法
+
+商用效果，没有比这更快的一键抠图方法
+
+
+
+
+
+# 导读
+
+
+
+![A48_Banner](https://image.baidu.com/search/down?url=https://fc.sinaimg.cn/large/7a6a15d5gy1hm4ocj7w57j21hc07v46n.jpg)
+
+
+
+**抠图**，毫无疑问已经成为了当代年轻人必备技能。
+
+
+
+如果你不会 **Photoshop**，更不想花钱用**抠图 AI**，同时还想要“**一键抠图**”，最好还能达到“**商用级别**”的效果。
+
+
+
+那么，本文将满足你的所有想象！！！
+
+
+
+
+
+# 一、项目说明
+
+
+
+## 1.1、最强抠图
+
+
+
+细心的话，你会发现 **Windows** 和 **Mac** 其实都自带了“**抠图**”功能，那为什么还要搞这样的一个新项目呢？
+
+
+
+因为系统自带的抠图功能“**真的太逊了**”！
+
+
+
+至于其它的抠图工具，类似“**设计师点赞**”，“**抠发丝神器**”，“**吊打 PS**”这种大词，我们耳朵都听出茧子了。
+
+
+
+而真正好用，还能达到“**商用级别**”效果的，没几个。
+
+
+
+最后，它还极有可能**要收费**！
+
+
+
+![A48_项目说明](https://image.baidu.com/search/down?url=https://fc.sinaimg.cn/large/7a6a15d5gy1hm4ltd8zj2j21hc0xc1kx.jpg)
+
+
+
+而今天要向你推荐 **Transparent Background** ，它可能才是目前的“**唯一真神**”。
+
+
+
+PS：**个人判断，仅作参考。**
+
+
+
+
+
+## 1.2、一键抠图
+
+
+
+你推荐的抠图工具，好用是好用，可如果上手难度大，那意义也不大呀？
+
+
+
+巧了，奶酪的项目就是干这个活的！
+
+
+
+你可以**一键抠图、一键扣视频、一键批量抠图**，它就像是系统自带的功能一样，被深度集成到了系统里。
+
+
+
+而你要做的，就仅仅是“**右键菜单**”里选择启用。
+
+
+
+![A48_项目说明2](https://image.baidu.com/search/down?url=https://fc.sinaimg.cn/large/7a6a15d5gy1hm4ltdx4voj21g10wl4d3.jpg)
+
+
+
+
+
+## 1.3、多平台支持
+
+
+
+除了 **Windows**，奶酪的这个项目也支持 **Mac**，理论上也支持 **Linux**，只是手上没有测试环境。
+
+
+
+![A48_项目说明3](https://image.baidu.com/search/down?url=https://fc.sinaimg.cn/large/7a6a15d5gy1hm4ltfajdlj228c1ec1kx.jpg)
+
+
+
+
+
+## 1.4、总结
+
+
+
+事物，是很难做到“**既要又要**”的程度的。
+
+
+
+开源免费、容易上手、一键抠图、支持视频、支持批量、本地运行、商用级效果。
+
+
+
+你很难相信，在这个项目里“**我全都要**”了！最关键的，它还是免费的。
+
+
+
+**如果还有人不会抠图，把这篇文章发给 TA！！！**
+
+
+
+
+
+
+
+
+
+# 二、前置软件
+
+
+
+而要实现这一目的，我们需要一些前置安装。
+
+
+
+别担心，这些软件都只是让你的电脑拥有某个功能，使用时不需要打开，而且**只需要一次配置**，就可以永久使用。
+
+
+
+
+
+## 2.1、命令行软件
+
+
+
+电脑里的大多数软件都是“**图形化软件**”，比如 Word、Excel、Photoshop，它们的一大特点是「**所见即所得**」。
+
+
+
+软件里的所有内容，都放在我们眼前，只需要用鼠标点几下，就能完成任务，**上手非常容易**。
+
+
+
+还有一种软件，叫“**命令行软件**”，它们的特点是「**所想即所得**」。
+
+
+
+它可以将我们大脑里想的内容「**逻辑文本化**」，通过不同命令的组合，就可以实现**任务的批处理，还有自动化**。
+
+
+
+命令行软件的上手难度较高。
+
+
+
+可一旦你掌握以后，你在这上面花费的时间，**将无限趋近于零**。
+
+
+
+![A48_项目说明4](https://image.baidu.com/search/down?url=https://fc.sinaimg.cn/large/7a6a15d5gy1hm4ltfto7sj21hc0xc4i2.jpg)
+
+
+
+
+
+## 2.2、安装 Python
+
+
+
+命令行软件的另一个特点，就是“**全平台通用**”。
+
+
+
+只要安装有相应的**语言解释器**，命令行软件就可以在 **Windows、Mac、Linux** 等多个平台上使用。
+
+
+
+比如 **Python**。
+
+
+
+Python 可以说是 AI 时代的“**发动机**”，我们无论如何，都应该给自己的电脑安装上 **Python**。
+
+
+
+![i57_Python安装](https://image.baidu.com/search/down?url=https://fc.sinaimg.cn/large/7a6a15d5gy1hm425p0hofj20t80iyn51.jpg)
+
+
+
+**下载地址：**
+
+```
+Windows 64位：
+https://www.python.org/ftp/python/3.10.10/python-3.10.10-amd64.exe
+
+Win7 64位：
+https://www.python.org/ftp/python/3.8.8/python-3.8.8-amd64.exe
+
+Mac：
+https://www.python.org/ftp/python/3.10.10/python-3.10.10-macos11.pkg
+
+本地下载：
+https://www.lanzouo.com/b07q79qub
+```
+
+
+
+**安装说明：**
+
+
+
+• 安装方法很简单，选择默认安装 ，并一路“**确认**”到底就可以了。
+
+• Windows 用户一定要记得勾选上“ **Add Python 3.X to PATH**”。
+
+• 考虑到兼容性问题，**不建议**安装 3.11 版本，3.10.10 就可以了。
+
+• Mac 自带 Python，但是 2.x 版本的，建议还要是用 **3.x** 版本的。
+
+• **Win 7** 最高只支持 **3.8** 版本。
+
+
+
+
+
+## 2.3、安装 PyTorch
+
+
+
+安装好 Python 后，要使用 **Transparent Background**，我们还需要安装 **Python 框架**，这里说一下什么是**框架**。
+
+
+
+**框架**，通常是指某个领域里的通用解决方案。
+
+
+
+就好比“**做菜**“，世界上有三大菜系：**中国菜系、法国菜系和土耳其菜系**，这里的菜系，就相当于框架。
+
+
+
+**框架**，可以让提高开发效率，避免重复造轮子，还可以让开发更容易更新和维护。
+
+
+
+![A48_项目说明5](https://image.baidu.com/search/down?url=https://fc.sinaimg.cn/large/7a6a15d5gy1hm4ltgasfnj21hc0xc4ot.jpg)
+
+
+
+而在人工智能领域，深度学习的框架主要包括：**TensorFlow、PyTorch 和 JAX**。
+
+
+
+**TensorFlow** 是谷歌推出的深度学习框架。
+
+
+
+**JAX** 则是谷歌推出的 TensorFlow 简化版。
+
+
+
+而 **PyTorch**，它由脸书推出，如今已经成为了 AI 领域的霸主，**Transparent Background** 用的也是这个框架。
+
+
+
+**安装地址**：[https://pytorch.org](https://pytorch.org)
+
+
+
+![A48_Pytorch2](https://image.baidu.com/search/down?url=https://fc.sinaimg.cn/large/7a6a15d5gy1hm425pjzbej228c1ech7b.jpg)
+
+
+
+**版本选择**：
+
+
+
+如果你的电脑没有独立显卡，那么选择 **Pip** —> **Python** 的 **CPU** 版本，有独立显卡的话，则选择 **CUDA 11.8**。
+
+
+
+复制该代码，粘贴到 **CMD 命令行** 又或者 **终端**，即可一键安装。
+
+
+
+```
+# CPU 版本：
+pip3 install torch torchvision torchaudio
+
+# GPU 版本：
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+
+# Mac 版本：
+pip3 install torch torchvision torchaudio
+```
+
+
+
+
+
+![A48_项目说明6](https://image.baidu.com/search/down?url=https://fc.sinaimg.cn/large/7a6a15d5gy1hm4ltgqwwhj21rt13kwi0.jpg)
+
+
+
+注意：**CPU** 版本大约 **300MB**，**GPU** 版本文件较大，大约有 **2.7GB**，需要的时间更长。
+
+
+
+还有，**GPU** 版本下载安装结尾时，
+
+
+
+会卡在 **Installing collected packages: torch, torchvision, torchaudio** 一分钟，期间不要操作，等待结束即可。
+
+
+
+
+
+## 2.4、换用 阿里源
+
+
+
+但是，你可能会无法下载 **PyTouch**。
+
+
+
+原因是 **pip** 下载默认使用的是“**国外源**”，下载时可能会非常慢，甚至无法下载，我们可以换用“**国内源**”。
+
+
+
+只需要在原来的指令加上 **-i [镜像源地址]** 即可，也就是：
+
+
+
+比如使用“**阿里云**”镜像源。
+
+
+
+```
+# CPU 版本 - 阿里云源：
+pip3 install torch torchvision torchaudio -i https://mirrors.aliyun.com/pypi/simple
+```
+
+
+
+上面的方法只是**临时有效**。
+
+
+
+如果你想每一次的 pip 下载，都换用**国内源**的话，则可以用下面的代码来设置一下 **pip** 默认源。
+
+
+
+以后就可以畅爽下载 Python 项目啦~~
+
+
+
+```
+pip3 config set global.index-url https://mirrors.aliyun.com/pypi/simple
+pip3 config set install.trusted-host mirrors.aliyun.com
+```
+
+
+
+![A48_项目说明9](https://image.baidu.com/search/down?url=https://fc.sinaimg.cn/large/7a6a15d5gy1hm5y7z08q2j21xe17g7et.jpg)
+
+
+
+PS：Windows 和 Mac 都一样。
+
+
+
+
+
+## 2.4、安装 Transparent BG
+
+
+
+最后，就是安装 **Transparent Background** 本体了。
+
+
+
+在 **CMD 命令行**（Windows） 又或者 **终端**（Mac）输入以下代码，即可一键安装。
+
+
+
+**默认源安装：**
+
+```
+pip3 install transparent-background
+```
+
+**阿里源安装：**
+
+```
+pip3 install transparent-background -i https://mirrors.aliyun.com/pypi/simple
+```
+
+
+
+Windows 安装：
+
+![A48_项目说明7](https://image.baidu.com/search/down?url=https://fc.sinaimg.cn/large/7a6a15d5gy1hm4lth2v7xj21rt13k4qp.jpg)
+
+
+
+Mac 安装演示：
+
+![A48_项目说明8](https://image.baidu.com/search/down?url=https://fc.sinaimg.cn/large/7a6a15d5gy1hm4lthp0nbj21k60yyu0x.jpg)
+
+
+
+至此，全部需要的前置软件就安装完毕了。
+
+
+
+
+
+
+
+# 三、Win 一键抠图
+
+
+
+前面的内容都还只是“**前置安装**”，真正的“**爽点**”，是接下来“**一键抠图**”的操作实现。
+
+
+
+
+
+## 3.1、奶酪整合包
+
+
+
+奶酪前后花了 3 天时间，终于实现了目前 Windows 下的“**最快抠图方法**”，没有之一。
+
+
+
+而你，只需要点击一下 “**开始.bat**”。
+
+
+
+从此，你的电脑就拥有了“**一键抠图**”功能，而且是“**商用级别**”的效果，应该说，已经到了“**有手就会**用”的程度。
+
+
+
+![A48_Win一键抠图](https://image.baidu.com/search/down?url=https://fc.sinaimg.cn/large/7a6a15d5gy1hm425qk520j21xe17g1kx.jpg)
+
+
+
+考虑到“**图片抠图、视频抠图、批量抠图**”三种场景，奶酪写了三个脚本。
+
+
+
+实际测试，我的 **CPU** 核显，一张 1000*1000px 的图片，抠图只用了 **5** 秒钟，**RTX4060** 显卡则不到 **1** 秒。
+
+
+
+**整合包下载：** [https://www.123pan.com/s/7bzA-FRaOd.html](https://www.123pan.com/s/7bzA-FRaOd.html)
+
+
+
+
+
+
+
+## 3.2、一键抠图
+
+
+
+图片只支持 **.jpg** 和 **.png**，如果是其它的格式，则需要转换一下。
+
+
+
+![A48_Win一键抠图](https://image.baidu.com/search/down?url=https://fc.sinaimg.cn/large/7a6a15d5gy1hm425rk36tj21xe17g7to.jpg)
+
+
+
+
+
+
+
+
+
+## 3.3、一键抠视频
+
+
+
+视频只支持 **.mp4**，如果是其它的格式，则需要转换一下。
+
+
+
+![A48_Win一键抠图](https://image.baidu.com/search/down?url=https://fc.sinaimg.cn/large/7a6a15d5gy1hm425s3dzfj21xe17gkfv.jpg)
+
+
+
+
+
+
+
+## 3.4、一键批量抠图
+
+
+
+如果需要批量抠图，在**文件夹右键**上选择即可，抠图后的图片会单独保存在一个**新的文件夹**里，与**原文件夹并列**。
+
+
+
+**注意**：批量抠图，要将需要图片全部“**放在一个文件夹里**”，然后在“**文件夹右键菜单**”上调用。
+
+
+
+![A48_Win一键抠图](https://image.baidu.com/search/down?url=https://fc.sinaimg.cn/large/7a6a15d5gy1hm425stkirj21xe17gaxj.jpg)
+
+
+
+
+
+
+
+
+
+# 四、Mac 一键抠图
+
+
+
+Mac 平台能不能也实现 Windows 那样的一键抠图呢？能！而且，**思路也大致相同**。
+
+
+
+
+
+## 4.1、奶酪整合包
+
+
+
+Mac 平台下，同样也有类似 Windows 右键菜单的“**发送到**”功能，叫做“**自动操作**”。
+
+
+
+具体实现方法，是打开“**自动操作**”，新建一个“**快捷操作**”。
+
+
+
+输入以下代码。
+
+
+
+```
+for f in "$@"
+do
+/Library/Frameworks/Python.framework/Versions/3.10/bin/transparent-background --source "$f" --type rgba --dest "$(cd "$(dirname "$@")"; pwd)"
+done
+```
+
+
+
+注意：如果你安装的 Python 是 **3.10** 版本，这里就是 **3.10**，如果是其它版本，则要修改为相应的数字。
+
+
+
+![A48_Mac一键抠图4](https://image.baidu.com/search/down?url=https://fc.sinaimg.cn/large/7a6a15d5gy1hm7cb5l71ij228c1ece6v.jpg)
+
+
+
+不想操作也没关系。
+
+
+
+回复关键字 **A48**，奶酪已经把脚本准备好了，只需要双击安装，脚本就会自动存放在 **~/Library/Services** 下。
+
+
+
+![A48_Mac一键抠图](https://image.baidu.com/search/down?url=https://fc.sinaimg.cn/large/7a6a15d5gy1hm425tujz5j228c1ca4pm.jpg)
+
+
+
+要设置“**快速操作**”菜单的显示内容，你可以直接在右键菜单“**快速操作**”里的“**自定...**” 修改。
+
+
+
+![A48_Mac一键抠图2](https://image.baidu.com/search/down?url=https://fc.sinaimg.cn/large/7a6a15d5gy1hm425ulebqj228c1ec4qp.jpg)
+
+
+
+此外，Transparent Background 还需要**下载模型**，但国内网络可能无法下载，所以你需要手动下载模式。
+
+
+
+下载后，把模型放在 **~/.transparent-background** 文件夹下。
+
+
+
+![A48_Mac一键抠图5](https://image.baidu.com/search/down?url=https://fc.sinaimg.cn/large/7a6a15d5gy1hm7cb637pvj228c1ecdz2.jpg)
+
+
+
+**整合包下载：** [https://www.123pan.com/s/7bzA-FRaOd.html](https://www.123pan.com/s/7bzA-FRaOd.html)
+
+
+
+
+
+
+
+## 4.2、一键抠图
+
+
+
+之后，选择**任意图片文件**，右键选择“**快速操作**”，选择“**使用图片一键抠图**” 就可以一键抠图了。
+
+
+
+图片只支持 **.jpg** 和 **.png**，如果是其它格式，则需要转换一下。
+
+
+
+![A48_一键抠图](https://image.baidu.com/search/down?url=https://fc.sinaimg.cn/large/7a6a15d5gy1hm425v8vz4j21wu1b0kbf.jpg)
+
+
+
+
+
+## 4.3、一键抠视频
+
+
+
+视频只支持 **.mp4**，如果是其他的格式，则需要转换一下。
+
+
+
+![A48_一键抠图2](https://image.baidu.com/search/down?url=https://fc.sinaimg.cn/large/7a6a15d5gy1hm425w0gu9j21sa1744mn.jpg)
+
+
+
+
+
+
+
+## 4.4、一键批量抠图
+
+
+
+如果需要批量抠图，在**文件夹右键**上选择即可，抠图后的图片会单独保存在一个**新的文件夹**里，**与原文件夹并列**。
+
+
+
+![A48_一键抠图2](https://image.baidu.com/search/down?url=https://fc.sinaimg.cn/large/7a6a15d5gy1hm425wnc49j21q01801dg.jpg)
+
+
+
+
+
+
+
+
+
+# 五、常见问题
+
+
+
+**常见问题：**
+
+
+
+**1、Win7 支持吗？**
+
+可能支持，但没测试过，你可以安装 Python 3.8 的版本，有机会的话，升级一下系统吧。
+
+
+
+**2、调用抠图失败？**
+
+右键调用抠图后，出现「**无法将“transparent-background”项识别为 cmdlet....** 」的红色提示。
+
+原因是“**前置软件**”没有安装好，请优先使用“**阿里源**”进行下载。
+
+
+
+**3、无法调用显卡抠图吗？**
+
+右键调用抠图后，提示框如果出现 **Device=cpu**，用的就是 **CPU**，出现 **Device=cuda:0**，用的就是**显卡**。
+
+经测试，A 卡可能不支持。
+
+
+
+**4、有显卡，但无法调用？**
+
+说明你没有正确安装 **PyTorch** 的 **Cuda** 版本，请参考本文章**第 2 节**，而且需要把之前的 **CPU** 版本删除。
+
+
+
+删除方法，是在 CMD 窗口输入：pip3 uninstall torch torchvision torchaudio
+
+
+
+**5、为什么我的抠图这么慢？**
+
+抠图速度与图片的分辨率大小相关，2K 或者 4K 图片会慢许多，视频也是，必要时可以上显卡。
+
+
+
+**6、为什么我抠的图，效果不理想？**
+
+AI 模型毕竟是算法驱动的，不可能保证所有的图片都完美，你可以参考文章《[A47-智能抠图](https://www.runningcheese.com/remove-background)》。
+
+5 分钟科普，看完没人比你更懂抠图。另外，非常推荐那个 PS 一键抠图脚本。
+
+
+
+**7、有任何问题和建议，可直接留言....**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

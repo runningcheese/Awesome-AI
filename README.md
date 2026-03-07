@@ -966,6 +966,7 @@ Poe 是问答社区 Quora 旗下的一款 AI 问答应用，支持 ChatGPT、Cla
 - [ChatGPT Shortcut](https://newzone.top/chatgpt/cn/?name=%C3%A7%C3%A7)：简单易用的 ChatGPT 快捷指令表
 - [ChatGPT 指令大全](https://www.explainthis.io/zh-hans/chatgpt)：提供精炼过的指令语句。
 - [你用 ChatGPT 生成过哪些有趣的回答](https://www.zhihu.com/question/570430650)：知乎问答案。
+- [WFGY RAG 问题诊断地图](https://github.com/onestardao/WFGY) ：用于分析和诊断 RAG 系统常见问题（如幻觉、检索漂移和 grounding 错误）的实践框架。
 
 
 

@@ -599,6 +599,7 @@ MyGPT 也是一款基于 ChatGPT 的第三方 ChatGPT 网页应用，它的独�
 
 
 ### 5.4、ChatGPT Desktop
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 
 

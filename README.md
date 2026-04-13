@@ -972,6 +972,55 @@ Poe 是问答社区 Quora 旗下的一款 AI 问答应用，支持 ChatGPT、Cla
 
 
 
+## 九、AI Agent 基础设施
+
+随着 AI Agent 的兴起，Agent 需要能够自主发现服务、进行通信并完成价值交换。以下是构建 Agentic Economy 的关键基础设施。
+
+### 9.1、MoltsPay - AI Agent 通用支付协议
+
+**MoltsPay** 是一个通用支付协议（Universal Payment Protocol，UPP），为 AI Agent 提供统一的多链支付接口，支持 8 条区块链的协议特定优化。
+
+**核心特性**：
+- **多链支持**：Base, Polygon, BNB, Tempo, Solana, Ethereum, Arbitrum, Optimism
+- **协议抽象**：统一 API，自动选择最优底层协议
+- **无 Gas 支付**：Client 端签名，Facilitator 执行
+- **双 SDK 支持**：Node.js + Python
+- **服务发现**：内置 Agent 服务注册表
+
+**支持的底层协议**：
+- **x402** (EIP-3009) - Base, Polygon, Ethereum, Arbitrum, Optimism
+- **MPP** (Machine Payments Protocol) - Tempo
+- **Solana PFS** (Pay-for-Success) - Solana
+- **BNB Pre-Approval** - BNB Chain
+
+**使用场景**：
+- AI Agent 之间的价值交换
+- API 服务按次付费
+- 跨链 Agent 通信
+- 自主市场交易
+
+**快速开始**：
+```bash
+# 安装 SDK
+npm install moltspay
+# 或
+pip install moltspay
+
+# 初始化 Agent 钱包
+npx moltspay init
+
+# 支付服务
+npx moltspay pay https://api.service.com service-id --prompt "Hello"
+```
+
+**资源链接**：
+- 官方文档：https://docs.moltspay.com
+- GitHub：https://github.com/Yaqing2023/moltspay
+- NPM：`moltspay@latest`
+- PyPI：`moltspay-python`
+
+---
+
 ## Starchart
 
 [![Star History Chart](https://api.star-history.com/svg?repos=runningcheese/Awesome-ChatGPT&type=Date)](https://star-history.com/#runningcheese/Awesome-ChatGPT&Date)

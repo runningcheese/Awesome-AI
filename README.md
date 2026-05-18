@@ -963,6 +963,7 @@ Poe 是问答社区 Quora 旗下的一款 AI 问答应用，支持 ChatGPT、Cla
 &nbsp;
 
 - [ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)：各种场景使用指南，学习怎么让它听你的话。    
+- [AI Workflow Tutorials](https://aiworkflowtutorials.com/)：AI 编程工具中文教程，覆盖 Codex、Claude Code、Cursor、GitHub Copilot、Gemini CLI 等工作流。
 - [ChatGPT Shortcut](https://newzone.top/chatgpt/cn/?name=%C3%A7%C3%A7)：简单易用的 ChatGPT 快捷指令表
 - [ChatGPT 指令大全](https://www.explainthis.io/zh-hans/chatgpt)：提供精炼过的指令语句。
 - [你用 ChatGPT 生成过哪些有趣的回答](https://www.zhihu.com/question/570430650)：知乎问答案。
@@ -984,7 +985,6 @@ Poe 是问答社区 Quora 旗下的一款 AI 问答应用，支持 ChatGPT、Cla
 
 
 ![S31关注奶酪](https://gcore.jsdelivr.net/gh/runningcheese/Blog/Inbox/Cheese.png)
-
 
 
 
